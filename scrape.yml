@@ -1,0 +1,58 @@
+name: Dhaka Tribune Feed Scraper
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+        env:
+          LOG_LEVEL: info
+          TZ: Asia/Dhaka
+        options: >-
+          --health-cmd "curl -sf http://localhost:8191/health || exit 1"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 20
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Wait for FlareSolverr
+        run: |
+          for i in $(seq 1 40); do
+            curl -sf http://localhost:8191/health && echo "Ready" && break
+            sleep 3
+          done
+
+      - name: Run scraper
+        env:
+          FLARESOLVERR_URL: http://localhost:8191
+        run: python scraper.py
+
+      - name: Commit feeds
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add home.xml opinion.xml
+          git diff --cached --quiet || (git commit -m "feeds: $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
