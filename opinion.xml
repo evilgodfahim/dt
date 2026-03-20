@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Fri, 20 Mar 2026 17:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:52:41 +0000</lastBuildDate>
     <item>
       <title>Marking a new beginning</title>
       <link>https://www.dhakatribune.com/opinion/editorial/405805/marking-a-new-beginning</link>
@@ -62,6 +62,8 @@
       <link>https://www.dhakatribune.com/opinion/editorial/405659/restoring-our-waterways</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/405659/restoring-our-waterways</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/08/29/image-306470-1756459409-7d8441f60a9a793495a254db98e07e53.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/08/29/image-306470-1756459409-7d8441f60a9a793495a254db98e07e53.jpg" medium="image" />
     </item>
     <item>
       <title>When US fights in the Middle East, American Muslim students face discrimination</title>
