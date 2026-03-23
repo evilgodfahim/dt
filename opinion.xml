@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Mon, 23 Mar 2026 20:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 21:38:04 +0000</lastBuildDate>
     <item>
       <title>Marking a new beginning</title>
       <link>https://www.dhakatribune.com/opinion/editorial/405805/marking-a-new-beginning</link>
@@ -98,6 +98,8 @@
       <link>https://www.dhakatribune.com/opinion/op-ed/405568/the-key-to-saving-bangladesh</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/405568/the-key-to-saving-bangladesh</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/16/05546ad0b01268abe88be98cd0495df6-69b787bb1f826.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/16/05546ad0b01268abe88be98cd0495df6-69b787bb1f826.jpeg" medium="image" />
     </item>
     <item>
       <title>Caught between war and work</title>
