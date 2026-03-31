@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Tue, 31 Mar 2026 18:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:16:09 +0000</lastBuildDate>
     <item>
       <title>Green factories mean nothing without fair prices</title>
       <link>https://www.dhakatribune.com/opinion/editorial/406595/green-factories-mean-nothing-without-fair-prices</link>
@@ -63,72 +63,96 @@ While global...</description>
       <link>https://www.dhakatribune.com/opinion/longform/406489/the-laboratory-of-childhood</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/longform/406489/the-laboratory-of-childhood</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/30/7084c828f0d3be8ef28de87e463fe38d-69ca06bec1bc5.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/30/7084c828f0d3be8ef28de87e463fe38d-69ca06bec1bc5.jpg" medium="image" />
     </item>
     <item>
       <title>The myth of the demographic dividend</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/406488/the-myth-of-the-demographic-dividend</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/406488/the-myth-of-the-demographic-dividend</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/30/eab6b8a7abf2eda9ff75245b4f5fc2f4-69ca0668c84d9.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/30/eab6b8a7abf2eda9ff75245b4f5fc2f4-69ca0668c84d9.jpg" medium="image" />
     </item>
     <item>
       <title>Eid, emptiness, and the crisis of urban space</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/406487/eid-emptiness-and-the-crisis-of-urban-space</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/406487/eid-emptiness-and-the-crisis-of-urban-space</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/30/e98882c308c35d69e197e7ac43956cbf-69ca05e231b8f.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/30/e98882c308c35d69e197e7ac43956cbf-69ca05e231b8f.jpg" medium="image" />
     </item>
     <item>
       <title>Putting an end to coastal abductions</title>
       <link>https://www.dhakatribune.com/opinion/editorial/406416/putting-an-end-on-coastal-abductions</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/406416/putting-an-end-on-coastal-abductions</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/35332bd73ea6cceb8359b27e6eed4216-69c8d9f0e40ba.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/35332bd73ea6cceb8359b27e6eed4216-69c8d9f0e40ba.jpeg" medium="image" />
     </item>
     <item>
       <title>A national failure we cannot ignore</title>
       <link>https://www.dhakatribune.com/opinion/editorial/406415/a-national-failure-we-cannot-ignore</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/406415/a-national-failure-we-cannot-ignore</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/1f395c96dc6dcc60ff5cc12d6a5d0e6f-69c91b06850c3.png" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/1f395c96dc6dcc60ff5cc12d6a5d0e6f-69c91b06850c3.png" medium="image" />
     </item>
     <item>
       <title>‘Oh, isn’t that interesting’</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/406403/%E2%80%98oh-isn%E2%80%99t-that-interesting%E2%80%99</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/406403/%E2%80%98oh-isn%E2%80%99t-that-interesting%E2%80%99</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/493f1c81d2ae50ad3eab113b8a2b40e5-69c83858afb53.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/493f1c81d2ae50ad3eab113b8a2b40e5-69c83858afb53.jpeg" medium="image" />
     </item>
     <item>
       <title>Saying no to plastic together</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/406402/saying-no-to-plastic-together</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/406402/saying-no-to-plastic-together</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/01/28/c497867bf8b97a76bba123729cec0222-6979ea49a2b2b.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/01/28/c497867bf8b97a76bba123729cec0222-6979ea49a2b2b.jpg" medium="image" />
     </item>
     <item>
       <title>Farmers’ card: From reality to results</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/406401/farmers%E2%80%99-card-from-reality-to-results</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/406401/farmers%E2%80%99-card-from-reality-to-results</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/b90718e69f9f940df2ceaf596257af20-69c83655a6943.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/29/b90718e69f9f940df2ceaf596257af20-69c83655a6943.jpeg" medium="image" />
     </item>
     <item>
       <title>Addressing sexual harassment in media</title>
       <link>https://www.dhakatribune.com/opinion/editorial/406342/addressing-sexual-harassment-in-media</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/406342/addressing-sexual-harassment-in-media</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/28/a997477a999c3ce17645feb82d182b38-69c7547424138.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/28/a997477a999c3ce17645feb82d182b38-69c7547424138.jpg" medium="image" />
     </item>
     <item>
       <title>Towards sporting diversity</title>
       <link>https://www.dhakatribune.com/opinion/editorial/406341/towards-sporting-diversity</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/406341/towards-sporting-diversity</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/28/d0ff5bbbb2cbb171ee20c13cf811af27-69c75415b1fe0.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/28/d0ff5bbbb2cbb171ee20c13cf811af27-69c75415b1fe0.jpg" medium="image" />
     </item>
     <item>
       <title>Navigating reforms:  Why the seed is more crucial than the gardener</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/406340/navigating-reforms-why-the-seed-is-more-crucial</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/406340/navigating-reforms-why-the-seed-is-more-crucial</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/09/03/reform_2-101d24567ae460bc978659048ffac023.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/09/03/reform_2-101d24567ae460bc978659048ffac023.jpg" medium="image" />
     </item>
     <item>
       <title>Can the Bangladesh economy survive the Iran war?</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/406339/can-the-bangladesh-economy-survive-the-iran-war</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/406339/can-the-bangladesh-economy-survive-the-iran-war</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/28/b98987f9908d3e9327a373a28045e820-69c752c7f142d.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/03/28/b98987f9908d3e9327a373a28045e820-69c752c7f142d.jpg" medium="image" />
     </item>
     <item>
       <title>Bangabandhu’s declaration, political reality and the making of Bangladesh</title>
