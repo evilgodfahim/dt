@@ -2,6 +2,7 @@
 import json, os, sys, requests, xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
+import re
 
 FLARESOLVERR_URL = os.environ.get("FLARESOLVERR_URL", "http://localhost:8191")
 MAX_ITEMS = 500
@@ -22,6 +23,20 @@ FEEDS = [
         "desc":   "Op-Eds, Editorials and Longform from Dhaka Tribune",
     },
 ]
+
+# Bengali script range. If a title contains this, it is treated as non-English.
+_BENGALI_RE = re.compile(r"[\u0980-\u09FF]")
+# Require at least one Latin letter so punctuation/numbers alone do not pass.
+_LATIN_RE = re.compile(r"[A-Za-z]")
+
+
+def is_english_text(text):
+    text = (text or "").strip()
+    if not text:
+        return False
+    if _BENGALI_RE.search(text):
+        return False
+    return bool(_LATIN_RE.search(text))
 
 
 def flaresolverr_get(url):
@@ -63,6 +78,12 @@ def extract_articles(html):
         title = (a.get("title") or a.get_text(strip=True)).strip()
         if not title:
             continue
+
+        # Keep only English articles.
+        # This is intentionally lightweight: titles containing Bengali script are skipped.
+        if not is_english_text(title):
+            continue
+
         thumb = ""
         span = each.select_one("span[data-ari]")
         if span:
