@@ -4,11 +4,19 @@
     <title>Dhaka Tribune - Home</title>
     <link>https://www.dhakatribune.com/</link>
     <description>Latest news from Dhaka Tribune</description>
-    <lastBuildDate>Sun, 05 Apr 2026 16:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 17:32:48 +0000</lastBuildDate>
+    <item>
+      <title>Measles-rubella vaccination begins in 30 upazilas</title>
+      <link>https://www.dhakatribune.com/bangladesh/health/406988/measles-rubella-vaccination-begins-in-30-upazilas</link>
+      <description>Children aged 6 months to 59 months will receive the measles-rubella vaccine</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/health/406988/measles-rubella-vaccination-begins-in-30-upazilas</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/04/b37f2ea37458063555871df2852dd058-69d1381abbec2.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/04/b37f2ea37458063555871df2852dd058-69d1381abbec2.jpg" medium="image" />
+    </item>
     <item>
       <title>JS passes bill setting 32-year age limit for govt jobs</title>
       <link>https://www.dhakatribune.com/bangladesh/parliament/407029/js-passes-bill-setting-32-year-age-limit-for-govt</link>
-      <description>However, for posts where the recruitment rules already set a higher age limit—such as 35, 40, or 45 years—that higher limit will remain unchanged</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/parliament/407029/js-passes-bill-setting-32-year-age-limit-for-govt</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/73617d4f2c0b88c3c34809f5bb772f2a-69d281484ff3c.jpg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/73617d4f2c0b88c3c34809f5bb772f2a-69d281484ff3c.jpg" medium="image" />
@@ -54,14 +62,6 @@
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/06/10/IMG_7046-c6b569532b17cbb6a81ae7e0cd04addf.jpeg" medium="image" />
     </item>
     <item>
-      <title>Measles-rubella vaccination begins in 30 upazilas</title>
-      <link>https://www.dhakatribune.com/bangladesh/health/406988/measles-rubella-vaccination-begins-in-30-upazilas</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/health/406988/measles-rubella-vaccination-begins-in-30-upazilas</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/04/b37f2ea37458063555871df2852dd058-69d1381abbec2.jpg" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/04/b37f2ea37458063555871df2852dd058-69d1381abbec2.jpg" medium="image" />
-    </item>
-    <item>
       <title>State minister for food: 19.2 lakh MT food grains in stock</title>
       <link>https://www.dhakatribune.com/bangladesh/government-affairs/407024/state-minister-for-food-19.2-lakh-mt-food-grains</link>
       <description />
@@ -76,6 +76,12 @@
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/407013/rab-dg-tribunal-to-get-full-co-op-on</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/445499207009a99862c9cf0f5d5554e5-69d25d1e3b4b6.jpg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/445499207009a99862c9cf0f5d5554e5-69d25d1e3b4b6.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Foreign minister: No secret deal with US</title>
+      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/407019/foreign-minister-no-secret-deal-with-us</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/407019/foreign-minister-no-secret-deal-with-us</guid>
     </item>
     <item>
       <title>Minister: Over 1.13 million Bangladeshis employed abroad in 2025</title>
@@ -114,16 +120,10 @@
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/health/406987/state-minister-govt-prioritising-every-child-in</guid>
     </item>
     <item>
-      <title>Rain, thundershowers likely in eight divisions</title>
-      <link>https://www.dhakatribune.com/bangladesh/406989/rain-thundershowers-likely-in-eight-divisions</link>
+      <title>DMP sets 7-day deadline to remove illegal bus counters</title>
+      <link>https://www.dhakatribune.com/bangladesh/407035/dmp-sets-7-day-deadline-to-remove-illegal-bus</link>
       <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/406989/rain-thundershowers-likely-in-eight-divisions</guid>
-    </item>
-    <item>
-      <title>Foreign minister: No secret deal with US</title>
-      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/407019/foreign-minister-no-secret-deal-with-us</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/407019/foreign-minister-no-secret-deal-with-us</guid>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/407035/dmp-sets-7-day-deadline-to-remove-illegal-bus</guid>
     </item>
     <item>
       <title>Heat is the new normal</title>
@@ -166,16 +166,44 @@
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/04/f3e91cd9efbd7f2078b87ce8aad563a6-69d057c36b916.jpg" medium="image" />
     </item>
     <item>
-      <title>France: Gandharbpur project expected to transform Dhaka’s water supply</title>
-      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/407030/france-gandharbpur-project-expected-to-transform</link>
+      <title>Thakurgaon Sugar Mill workers stage protest over 3-point demands</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/407036/thakurgaon-sugar-mill-workers-stage-protest-over</link>
       <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/407030/france-gandharbpur-project-expected-to-transform</guid>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/407036/thakurgaon-sugar-mill-workers-stage-protest-over</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/e7d7b1b8d321bd871a2da6b3090823ca-69d29a9d92892.png" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/e7d7b1b8d321bd871a2da6b3090823ca-69d29a9d92892.png" medium="image" />
+    </item>
+    <item>
+      <title>Measles vaccination begins in Rajshahi</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/407033/measles-vaccination-begins-in-rajshahi%C2%A0</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/407033/measles-vaccination-begins-in-rajshahi%C2%A0</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/70b69b3830de08ad879d6a4ee0273602-69d295a570c81.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/70b69b3830de08ad879d6a4ee0273602-69d295a570c81.jpg" medium="image" />
+    </item>
+    <item>
+      <title>CMCH’s lone MRI machine resumes operations after one month</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/407032/cmch%E2%80%99s-lone-mri-machine-resumes-operations-after</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/407032/cmch%E2%80%99s-lone-mri-machine-resumes-operations-after</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/5cc9d612f6028c6c2c624f5c14e2358a-69d293d2636d5.png" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/5cc9d612f6028c6c2c624f5c14e2358a-69d293d2636d5.png" medium="image" />
+    </item>
+    <item>
+      <title>Khulna grapples with measles outbreak</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/407031/khulna-grapples-with-measles-outbreak</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/407031/khulna-grapples-with-measles-outbreak</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/3ff85016c749d9f323851ba5801cebde-69d291dd2e257.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/3ff85016c749d9f323851ba5801cebde-69d291dd2e257.jpg" medium="image" />
     </item>
     <item>
       <title>BENDSTA urges evidence-based approach to ENDS amid concerns over misleading claims</title>
       <link>https://www.dhakatribune.com/feature/health-wellness/407017/bendsta-urges-evidence-based-approach-to-ends-amid</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/feature/health-wellness/407017/bendsta-urges-evidence-based-approach-to-ends-amid</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/a0353dc8f054fcede553b46d3805f821-69d268732c6a7.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/05/a0353dc8f054fcede553b46d3805f821-69d268732c6a7.jpeg" medium="image" />
     </item>
     <item>
       <title>Downloaders that handle music and video in one place</title>
