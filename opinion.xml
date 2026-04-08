@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Tue, 07 Apr 2026 23:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:32:05 +0000</lastBuildDate>
     <item>
       <title>Public health must be rooted in scientific principles</title>
       <link>https://www.dhakatribune.com/opinion/editorial/407146/public-health-must-be-rooted-in-scientific</link>
@@ -122,6 +122,8 @@
       <link>https://www.dhakatribune.com/opinion/editorial/406864/upskilling-and-diversifying-our-labour</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/406864/upskilling-and-diversifying-our-labour</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/12/17/74850669a7956c7315be47fe5d0a0eba-69424284ea9d8.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/12/17/74850669a7956c7315be47fe5d0a0eba-69424284ea9d8.jpg" medium="image" />
     </item>
     <item>
       <title>Education decisions cannot be made in isolation</title>
