@@ -4,12 +4,19 @@
     <title>Dhaka Tribune - Home</title>
     <link>https://www.dhakatribune.com/</link>
     <description>Latest news from Dhaka Tribune</description>
-    <lastBuildDate>Sat, 18 Apr 2026 15:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 16:42:15 +0000</lastBuildDate>
+    <item>
+      <title>Crime wave drives 14% jump in murders in Bangladesh, fueling public concern</title>
+      <link>https://www.dhakatribune.com/bangladesh/crime/408077/public-concern-over-law-and-order-as-murder-cases</link>
+      <description>Police Headquarters data and expert comments point to rising anxiety over violent crime and its spread on social media</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/crime/408077/public-concern-over-law-and-order-as-murder-cases</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/30/pexels-kat-wilcox-329096-923681-09139e5228f3db0b28a97826506ef943.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/30/pexels-kat-wilcox-329096-923681-09139e5228f3db0b28a97826506ef943.jpg" medium="image" />
+    </item>
     <item>
       <title>Measles outbreak: Four suspected deaths, 982 cases in 24 hours</title>
       <link>https://www.dhakatribune.com/bangladesh/health/408078/measles-outbreak-four-suspected-deaths-982-cases</link>
-      <description>Four children died of measles-like symptoms in 24 hours till 8am on Saturday, according to thr daily bulletin issued by Directorate General of Health Services (DGHS).
-Of the deaths, two were...</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/health/408078/measles-outbreak-four-suspected-deaths-982-cases</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/06/001672219ae424ea1c04d7567a6d2f73-69d3bcf3e2c81.jpeg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/06/001672219ae424ea1c04d7567a6d2f73-69d3bcf3e2c81.jpeg" medium="image" />
@@ -71,12 +78,10 @@ Of the deaths, two were...</description>
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/76a0afc90a9ac7a6051924bd66324c1c-69e39d0b1b930.png" medium="image" />
     </item>
     <item>
-      <title>Dhaka thanks Islamabad for its 'commendable diplomatic efforts' to bring conflict to negotiated end</title>
-      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/408066/dhaka-thanks-islamabad-for-its-commendable</link>
+      <title>Bangladesh receives another 5,000 tons diesel from India</title>
+      <link>https://www.dhakatribune.com/bangladesh/power-energy/408069/bangladesh-receives-another-5-000-tonnes-of-diesel</link>
       <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/408066/dhaka-thanks-islamabad-for-its-commendable</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/2debb2fda543cb279b1db8859048a406-69e382f147550.png" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/2debb2fda543cb279b1db8859048a406-69e382f147550.png" medium="image" />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/power-energy/408069/bangladesh-receives-another-5-000-tonnes-of-diesel</guid>
     </item>
     <item>
       <title>Iran closes Hormuz Strait again over US blockade, ships reverse course</title>
@@ -115,16 +120,10 @@ Of the deaths, two were...</description>
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/health/408049/pm-says-fatema-begum-now-a-member-of-their-family</guid>
     </item>
     <item>
-      <title>Dhaka Board scraps 'silent expulsion' rule from SSC exam conduct policy</title>
-      <link>https://www.dhakatribune.com/bangladesh/education/408056/dhaka-board-scraps-silent-expulsion-rule-from</link>
+      <title>Dhaka thanks Islamabad for its 'commendable diplomatic efforts' to bring conflict to negotiated end</title>
+      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/408066/dhaka-thanks-islamabad-for-its-commendable</link>
       <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/education/408056/dhaka-board-scraps-silent-expulsion-rule-from</guid>
-    </item>
-    <item>
-      <title>Bangladesh receives another 5,000 tons diesel from India</title>
-      <link>https://www.dhakatribune.com/bangladesh/power-energy/408069/bangladesh-receives-another-5-000-tonnes-of-diesel</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/power-energy/408069/bangladesh-receives-another-5-000-tonnes-of-diesel</guid>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/408066/dhaka-thanks-islamabad-for-its-commendable</guid>
     </item>
     <item>
       <title>A failure to respect our history</title>
@@ -167,18 +166,44 @@ Of the deaths, two were...</description>
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/17/54a3a722b1dac24e83fa60e4f37ac21a-69e1f8905f442.jpeg" medium="image" />
     </item>
     <item>
-      <title>Ex-IGP Mamun to be indicted in crimes against humanity case over ‘Shapla Chattar’ incident</title>
-      <link>https://www.dhakatribune.com/bangladesh/408073/ex-igp-mamun-to-be-indicted-in-crimes-against</link>
+      <title>RCC holds vaccine safety orientation ahead of April 20 campaign</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/408087/rcc-holds-vaccine-safety-orientation-ahead-of</link>
       <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408073/ex-igp-mamun-to-be-indicted-in-crimes-against</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/2f10469d136cfc4204f967be3fe9a812-69e396fba2cd3.jpg" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/2f10469d136cfc4204f967be3fe9a812-69e396fba2cd3.jpg" medium="image" />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/408087/rcc-holds-vaccine-safety-orientation-ahead-of</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/f3af32f4a715b16b459f51df9d24feea-69e3b3fdda346.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/f3af32f4a715b16b459f51df9d24feea-69e3b3fdda346.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Police constable found dead in Khulna</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/408086/police-constable-found-dead-in-khulna</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/408086/police-constable-found-dead-in-khulna</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/107d22330b3bef8f836fef5ce3e30cd7-69e3b27719487.png" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/107d22330b3bef8f836fef5ce3e30cd7-69e3b27719487.png" medium="image" />
+    </item>
+    <item>
+      <title>Indonesian ‘Chapai Kopai’ chilli sees successful trial cultivation in Gazipur</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/408085/indonesian-%E2%80%98chapai-kopai%E2%80%99-chilli-sees-successful</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/408085/indonesian-%E2%80%98chapai-kopai%E2%80%99-chilli-sees-successful</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/23f7a85483a60720c9451bb47961df69-69e3b06444317.png" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/23f7a85483a60720c9451bb47961df69-69e3b06444317.png" medium="image" />
+    </item>
+    <item>
+      <title>11-party alliance rally demands referendum implementation, energy crisis resolution, price control</title>
+      <link>https://www.dhakatribune.com/bangladesh/politics/408084/11-party-alliance-rally-demands-referendum</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/politics/408084/11-party-alliance-rally-demands-referendum</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/4e96bc38a1fa2479435481bcfcd33d3a-69e3aaeec9c09.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/18/4e96bc38a1fa2479435481bcfcd33d3a-69e3aaeec9c09.jpg" medium="image" />
     </item>
     <item>
       <title>A Paris in the beel: The fading glory of Bhagyakul’s Raja</title>
       <link>https://www.dhakatribune.com/feature/travel/407985/a-paris-in-the-beel-the-fading-glory-of</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/feature/travel/407985/a-paris-in-the-beel-the-fading-glory-of</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/17/a249bcef27315561e240c1dcc128bbc3-69e22bf23fce7.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/17/a249bcef27315561e240c1dcc128bbc3-69e22bf23fce7.jpg" medium="image" />
     </item>
     <item>
       <title>The Flow Fest &amp; Prime NOW invite Bangladesh to find its flow</title>
