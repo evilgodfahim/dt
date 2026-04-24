@@ -4,11 +4,20 @@
     <title>Dhaka Tribune - Home</title>
     <link>https://www.dhakatribune.com/</link>
     <description>Latest news from Dhaka Tribune</description>
-    <lastBuildDate>Fri, 24 Apr 2026 13:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:09:31 +0000</lastBuildDate>
+    <item>
+      <title>UN: Bangladesh among world’s top 10 food crisis countries</title>
+      <link>https://www.dhakatribune.com/world/408543/un-backed-report-10-countries-are-home-to</link>
+      <description>Acute food insecurity affects millions across forty seven countries globally
+Climate change and conflict expected to worsen future food outlook</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/world/408543/un-backed-report-10-countries-are-home-to</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/006ded91dfff2087e7cb7b09ad2e779c-69eb390a714f6.png" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/006ded91dfff2087e7cb7b09ad2e779c-69eb390a714f6.png" medium="image" />
+    </item>
     <item>
       <title>WHO: Bangladesh at high risk of measles due to vaccination gaps</title>
       <link>https://www.dhakatribune.com/bangladesh/health/408561/who-bangladesh-at-high-risk-of-measles-due-to</link>
-      <description>'Most cases (91%) occurred among children aged 1 to 14 years, indicating substantial immunity gaps in this age group' the report said</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/health/408561/who-bangladesh-at-high-risk-of-measles-due-to</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/04/c64946d82c9cb9b810cab82593c742e0-69d1259714a4d.jpeg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/04/c64946d82c9cb9b810cab82593c742e0-69d1259714a4d.jpeg" medium="image" />
@@ -70,12 +79,10 @@
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/a8cf7bc3beec293181235c37d89556f6-69e8b0e5a414f.jpg" medium="image" />
     </item>
     <item>
-      <title>I covered Rana Plaza. It never left me</title>
-      <link>https://www.dhakatribune.com/bangladesh/408521/i-covered-rana-plaza.-it-never-left-me</link>
+      <title>BGMEA: Rana Plaza victims received support beyond legal minimum</title>
+      <link>https://www.dhakatribune.com/bangladesh/408520/bgmea-rana-plaza-victims-received-support-beyond</link>
       <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408521/i-covered-rana-plaza.-it-never-left-me</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/a74142c9047c8e7b8dea62545eda7694-69ea47acf21dd.png" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/a74142c9047c8e7b8dea62545eda7694-69ea47acf21dd.png" medium="image" />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408520/bgmea-rana-plaza-victims-received-support-beyond</guid>
     </item>
     <item>
       <title>ADB approves $250m loan to strengthen Bangladesh’s social protection system</title>
@@ -88,12 +95,6 @@
       <link>https://www.dhakatribune.com/bangladesh/408518/rana-plaza-disaster-aid-came-compensation-never</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408518/rana-plaza-disaster-aid-came-compensation-never</guid>
-    </item>
-    <item>
-      <title>UN report: 10 countries are home to two-thirds of world's most hungry</title>
-      <link>https://www.dhakatribune.com/world/408543/un-backed-report-10-countries-are-home-to</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/world/408543/un-backed-report-10-countries-are-home-to</guid>
     </item>
     <item>
       <title>Where does garment industry stand now</title>
@@ -120,10 +121,10 @@
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/parliament/408512/opposition-leader-proposes-load-shedding-from</guid>
     </item>
     <item>
-      <title>BGMEA: Rana Plaza victims received support beyond legal minimum</title>
-      <link>https://www.dhakatribune.com/bangladesh/408520/bgmea-rana-plaza-victims-received-support-beyond</link>
+      <title>I covered Rana Plaza. It never left me</title>
+      <link>https://www.dhakatribune.com/bangladesh/408521/i-covered-rana-plaza.-it-never-left-me</link>
       <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408520/bgmea-rana-plaza-victims-received-support-beyond</guid>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408521/i-covered-rana-plaza.-it-never-left-me</guid>
     </item>
     <item>
       <title>The collapse of Rana Plaza remains a national failure</title>
@@ -158,34 +159,42 @@
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/02/abfe9e31fbefe393de95b5876fd176db-69ce4f83516e7.jpg" medium="image" />
     </item>
     <item>
+      <title>Jamaat ameer: No leniency for those betraying July</title>
+      <link>https://www.dhakatribune.com/bangladesh/politics/408571/jamaat-ameer-no-leniency-for-those-betraying-july</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/politics/408571/jamaat-ameer-no-leniency-for-those-betraying-july</guid>
+    </item>
+    <item>
+      <title>Mirza Fakhrul denies fuel crisis, says 'situation created artificially'</title>
+      <link>https://www.dhakatribune.com/bangladesh/408570/mirza-fakhrul-denies-fuel-crisis-says-situation</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408570/mirza-fakhrul-denies-fuel-crisis-says-situation</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/f21178c139a614867004f02e939ab616-69eb7a4817639.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/f21178c139a614867004f02e939ab616-69eb7a4817639.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Seven more deaths reported from measles and measles-like symptoms</title>
+      <link>https://www.dhakatribune.com/bangladesh/health/408569/seven-more-deaths-reported-from-measles-and</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/health/408569/seven-more-deaths-reported-from-measles-and</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/9da28a47b0b568090238c7362de0a274-69e9eecbea82b.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/9da28a47b0b568090238c7362de0a274-69e9eecbea82b.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Prices of essentials remain high</title>
+      <link>https://www.dhakatribune.com/bangladesh/dhaka/408568/prices-of-essentials-remain-high</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/dhaka/408568/prices-of-essentials-remain-high</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/82d252bbc853ea4b74022eaad7f31878-69eb7466f070d.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/82d252bbc853ea4b74022eaad7f31878-69eb7466f070d.jpg" medium="image" />
+    </item>
+    <item>
       <title>Bangladesh faces new climate reality as heatwaves Intensify</title>
       <link>https://www.dhakatribune.com/bangladesh/408566/bangladesh-faces-new-climate-reality-as-heatwaves</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408566/bangladesh-faces-new-climate-reality-as-heatwaves</guid>
-    </item>
-    <item>
-      <title>Tuku: Govt moving to fulfill electoral pledges</title>
-      <link>https://www.dhakatribune.com/bangladesh/government-affairs/408565/tuku-govt-moving-to-fulfill-electoral-pledges</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/government-affairs/408565/tuku-govt-moving-to-fulfill-electoral-pledges</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/d8f3d22de1e8fb26622db5968aa25cad-69eb650b52490.jpg" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/d8f3d22de1e8fb26622db5968aa25cad-69eb650b52490.jpg" medium="image" />
-    </item>
-    <item>
-      <title>3 sentenced to death for raping housewife in Jamalpur</title>
-      <link>https://www.dhakatribune.com/bangladesh/court/408562/3-sentenced-to-death-for-raping-housewife-in</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/court/408562/3-sentenced-to-death-for-raping-housewife-in</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/435990e1d9a5c4735f35d9d82342de28-69eb5dfde9640.jpg" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/435990e1d9a5c4735f35d9d82342de28-69eb5dfde9640.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Long-awaited airport set to launch in Bogra</title>
-      <link>https://www.dhakatribune.com/bangladesh/408560/long-awaited-airport-set-to-launch-in-bogra</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/408560/long-awaited-airport-set-to-launch-in-bogra</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/5f835b2cd561ebf60c47aa2eee7ec8b8-69eb588228374.jpg" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/24/5f835b2cd561ebf60c47aa2eee7ec8b8-69eb588228374.jpg" medium="image" />
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/cbc31c55e7e5784576bc4e4f10a37f10-69e8a42cc686b.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/cbc31c55e7e5784576bc4e4f10a37f10-69e8a42cc686b.jpg" medium="image" />
     </item>
     <item>
       <title>TikTok releases Q4 2025 community guidelines enforcement report</title>

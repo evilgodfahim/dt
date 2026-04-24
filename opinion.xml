@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Fri, 24 Apr 2026 13:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:09:44 +0000</lastBuildDate>
     <item>
       <title>The collapse of Rana Plaza remains a national failure</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408538/the-collapse-of-rana-plaza-remains-a-national</link>
@@ -64,72 +64,96 @@ Just...</description>
       <link>https://www.dhakatribune.com/opinion/op-ed/408450/they-leave-for-work-and-return-with-trauma</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408450/they-leave-for-work-and-return-with-trauma</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/2c63d983667dea4243b8d41df10b9b9a-69e99e3f7999b.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/23/2c63d983667dea4243b8d41df10b9b9a-69e99e3f7999b.jpeg" medium="image" />
     </item>
     <item>
       <title>Rising crime demands urgent action</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408362/rising-crime-demands-urgent-action</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408362/rising-crime-demands-urgent-action</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/30/pexels-kat-wilcox-329096-923681-09139e5228f3db0b28a97826506ef943.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/30/pexels-kat-wilcox-329096-923681-09139e5228f3db0b28a97826506ef943.jpg" medium="image" />
     </item>
     <item>
       <title>Powering our future responsibly</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408361/powering-our-future-responsibly</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408361/powering-our-future-responsibly</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/41be7ff61fbcb54a96cfd5a7b73393d9-69e851b0d102f.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/41be7ff61fbcb54a96cfd5a7b73393d9-69e851b0d102f.jpeg" medium="image" />
     </item>
     <item>
       <title>Earth Day: Promises must meet ground realities</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/408360/earth-day-promises-must-meet-ground-realities</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408360/earth-day-promises-must-meet-ground-realities</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/f0eebd1401648ae814b030b9213e8655-69e84fb08ee3b.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/f0eebd1401648ae814b030b9213e8655-69e84fb08ee3b.jpeg" medium="image" />
     </item>
     <item>
       <title>Stop managing the oil, and start managing the math of the tank</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/408354/stop-managing-the-oil-and-start-managing-the-math</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408354/stop-managing-the-oil-and-start-managing-the-math</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/13/49dca24c030ee7da784e47cb228de6be-69dd055b13af0.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/13/49dca24c030ee7da784e47cb228de6be-69dd055b13af0.jpg" medium="image" />
     </item>
     <item>
       <title>Fuel queues, grey markets, and the crisis of behaviour</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/408353/fuel-queues-grey-markets-and-the-crisis-of</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408353/fuel-queues-grey-markets-and-the-crisis-of</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/2613715e75fb75e825d4806801af3371-69e7dea98ec17.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/22/2613715e75fb75e825d4806801af3371-69e7dea98ec17.jpeg" medium="image" />
     </item>
     <item>
       <title>Towards stronger ties with Kosovo</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408284/towards-stronger-ties-with-kosovo</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408284/towards-stronger-ties-with-kosovo</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/4a91cd8a24d753ff74d6fa5d7fd348f6-69e73a6e03a8e.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/4a91cd8a24d753ff74d6fa5d7fd348f6-69e73a6e03a8e.jpeg" medium="image" />
     </item>
     <item>
       <title>We cannot go back to the dark days of the Digital Security Act</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408282/we-cannot-go-back-to-the-dark-days-of-the-digital</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408282/we-cannot-go-back-to-the-dark-days-of-the-digital</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/558fea185c995f7bf406d86aae1e4668-69e739db308a0.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/558fea185c995f7bf406d86aae1e4668-69e739db308a0.jpeg" medium="image" />
     </item>
     <item>
       <title>Five realistic scenarios to prevent financial breakdown</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/408271/five-realistic-scenarios-to-prevent-financial</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408271/five-realistic-scenarios-to-prevent-financial</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/954063ee8f08754d63bff0f3b2897922-69e6ec75cea10.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/954063ee8f08754d63bff0f3b2897922-69e6ec75cea10.jpeg" medium="image" />
     </item>
     <item>
       <title>The deepening debt crisis of Bangladesh</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/408270/the-deepening-debt-crisis-of-bangladesh</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408270/the-deepening-debt-crisis-of-bangladesh</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/6d4552bdd815911ae5958440aa5e838b-69e6eb864cf2e.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/6d4552bdd815911ae5958440aa5e838b-69e6eb864cf2e.jpeg" medium="image" />
     </item>
     <item>
       <title>Bangladesh’s sovereignty is at stake</title>
       <link>https://www.dhakatribune.com/opinion/longform/408269/bangladesh%E2%80%99s-sovereignty-is-at-stake</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/longform/408269/bangladesh%E2%80%99s-sovereignty-is-at-stake</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/0085cd7db2f2b01d300cd41972746d5f-69e6ea6b1c970.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/21/0085cd7db2f2b01d300cd41972746d5f-69e6ea6b1c970.jpeg" medium="image" />
     </item>
     <item>
       <title>Addressing the crisis of addiction</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408179/addressing-the-crisis-of-addiction</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408179/addressing-the-crisis-of-addiction</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/20/190ce5a2221d4cc1f9df5f7fc6832491-69e5b5349f979.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/20/190ce5a2221d4cc1f9df5f7fc6832491-69e5b5349f979.jpeg" medium="image" />
     </item>
     <item>
       <title>Asset recovery alone cannot fix the banking sector</title>
