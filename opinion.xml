@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Fri, 24 Apr 2026 20:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 21:49:31 +0000</lastBuildDate>
     <item>
       <title>The collapse of Rana Plaza remains a national failure</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408538/the-collapse-of-rana-plaza-remains-a-national</link>
@@ -130,6 +130,8 @@ Just...</description>
       <link>https://www.dhakatribune.com/opinion/editorial/408179/addressing-the-crisis-of-addiction</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408179/addressing-the-crisis-of-addiction</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/20/190ce5a2221d4cc1f9df5f7fc6832491-69e5b5349f979.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/20/190ce5a2221d4cc1f9df5f7fc6832491-69e5b5349f979.jpeg" medium="image" />
     </item>
   </channel>
 </rss>
