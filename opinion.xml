@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Tue, 28 Apr 2026 06:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:22:43 +0000</lastBuildDate>
+    <item>
+      <title>Reviving the dormant jute industry</title>
+      <link>https://www.dhakatribune.com/opinion/editorial/408862/reviving-the-dormant-jute-industry</link>
+      <description>The government’s decision to lease out six state-owned jute mills this year is, by pragmatic standards, a welcome and necessary step forward....</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408862/reviving-the-dormant-jute-industry</guid>
+      <pubDate>2026-04-28T15:14:24+06:00</pubDate>
+    </item>
     <item>
       <title>Ensuring discipline for public projects</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408849/ensuring-discipline-for-public-projects</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Do we know where our food comes from?</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/408846/do-we-know-where-our-food-comes-from</link>
-      <description>Think about the last time you bought meat or milk. You probably checked the price, maybe the freshness. But did you know which farm it came from?...</description>
+      <description>Think about the last time you bought meat or milk. You probably checked the price, maybe the...</description>
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408846/do-we-know-where-our-food-comes-from</guid>
       <pubDate>2026-04-28T11:10:43+06:00</pubDate>
     </item>
@@ -29,9 +36,8 @@
     <item>
       <title>Short-term fixes will not save our economy</title>
       <link>https://www.dhakatribune.com/opinion/editorial/408774/short-term-fixes-will-not-save-our-economy</link>
-      <description>That our country today is going through a challenging time cannot be disputed. External shocks...</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408774/short-term-fixes-will-not-save-our-economy</guid>
-      <pubDate>2026-04-27T14:53:05+06:00</pubDate>
     </item>
     <item>
       <title>Vaccination must be supported by increased healthcare capacity</title>
@@ -98,8 +104,6 @@
       <link>https://www.dhakatribune.com/opinion/editorial/408590/strengthening-digital-safety-while-safeguarding</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408590/strengthening-digital-safety-while-safeguarding</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/25/6a050e450bd40d386938b179658fd82a-69ec2e10cabff.jpg" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/25/6a050e450bd40d386938b179658fd82a-69ec2e10cabff.jpg" medium="image" />
     </item>
     <item>
       <title>The vagueness in our cyber laws</title>
@@ -124,54 +128,6 @@
       <link>https://www.dhakatribune.com/opinion/editorial/408537/extending-primary-education-for-our-future</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408537/extending-primary-education-for-our-future</guid>
-    </item>
-    <item>
-      <title>Our new cultural vocabulary</title>
-      <link>https://www.dhakatribune.com/opinion/op-ed/408527/our-new-cultural-vocabulary</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408527/our-new-cultural-vocabulary</guid>
-    </item>
-    <item>
-      <title>The silver anklet and the snail’s pace of justice</title>
-      <link>https://www.dhakatribune.com/opinion/op-ed/408526/the-silver-anklet-and-the-snail%E2%80%99s-pace-of-justice</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408526/the-silver-anklet-and-the-snail%E2%80%99s-pace-of-justice</guid>
-    </item>
-    <item>
-      <title>Supporting the telecom sector</title>
-      <link>https://www.dhakatribune.com/opinion/editorial/408455/supporting-the-telecom-sector</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408455/supporting-the-telecom-sector</guid>
-    </item>
-    <item>
-      <title>Doing right by the media</title>
-      <link>https://www.dhakatribune.com/opinion/editorial/408454/doing-right-by-the-media</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408454/doing-right-by-the-media</guid>
-    </item>
-    <item>
-      <title>Beyond survival: Forging Bangladesh’s telecom future</title>
-      <link>https://www.dhakatribune.com/opinion/longform/408453/beyond-survival-forging-bangladesh%E2%80%99s-telecom</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/longform/408453/beyond-survival-forging-bangladesh%E2%80%99s-telecom</guid>
-    </item>
-    <item>
-      <title>Is employee well-being a double-edged sword?</title>
-      <link>https://www.dhakatribune.com/opinion/op-ed/408451/is-employee-well-being-a-double-edged-sword</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408451/is-employee-well-being-a-double-edged-sword</guid>
-    </item>
-    <item>
-      <title>They leave for work and return with trauma</title>
-      <link>https://www.dhakatribune.com/opinion/op-ed/408450/they-leave-for-work-and-return-with-trauma</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/408450/they-leave-for-work-and-return-with-trauma</guid>
-    </item>
-    <item>
-      <title>Rising crime demands urgent action</title>
-      <link>https://www.dhakatribune.com/opinion/editorial/408362/rising-crime-demands-urgent-action</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/408362/rising-crime-demands-urgent-action</guid>
     </item>
   </channel>
 </rss>
