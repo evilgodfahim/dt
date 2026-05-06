@@ -52,6 +52,28 @@ def flaresolverr_get(url):
     return d["solution"]["response"]
 
 
+def fetch_full_text(article_url):
+    """
+    Fetch the full article text from a Dhaka Tribune article page via FlareSolverr.
+    Extracts paragraphs from .jw_article_body and returns them joined.
+    Returns empty string on failure.
+    """
+    try:
+        html = flaresolverr_get(article_url)
+        soup = BeautifulSoup(html, "lxml")
+        body = soup.select_one(".jw_article_body")
+        if not body:
+            print(f"[WARN] .jw_article_body not found in {article_url}", file=sys.stderr)
+            return ""
+        paragraphs = [p.get_text(separator=" ", strip=True)
+                      for p in body.find_all("p")
+                      if p.get_text(strip=True)]
+        return "\n\n".join(paragraphs)
+    except Exception as e:
+        print(f"[WARN] Full-text fetch failed for {article_url}: {e}", file=sys.stderr)
+        return ""
+
+
 def thumbnail_from_ari(raw):
     try:
         path = json.loads(raw).get("path", "").split("?")[0]
@@ -80,7 +102,6 @@ def extract_articles(html):
             continue
 
         # Keep only English articles.
-        # This is intentionally lightweight: titles containing Bengali script are skipped.
         if not is_english_text(title):
             continue
 
@@ -180,8 +201,26 @@ def main():
         except Exception as e:
             print(f"[SKIP] {e}", file=sys.stderr)
             continue
+
         new  = extract_articles(html)
         old  = load_existing(cfg["output"])
+
+        # Determine which articles are truly new (not already saved)
+        existing_links = {item["link"] for item in old}
+        truly_new = [n for n in new if n["link"] not in existing_links]
+
+        print(f"[INFO] {len(truly_new)} new article(s) to fetch full text for.")
+
+        # Fetch full article text only for new items
+        for n in truly_new:
+            url = n["link"]
+            print(f"[INFO] Fetching full text: {url}")
+            full_text = fetch_full_text(url)
+            if full_text:
+                n["summary"] = full_text
+            else:
+                print(f"[WARN] No full text for {url}, keeping listing summary.", file=sys.stderr)
+
         all_ = merge(new, old)
         save(cfg["output"], all_, cfg["title"], cfg["url"], cfg["desc"])
 
