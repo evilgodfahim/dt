@@ -164,7 +164,6 @@ def merge(new_items, existing):
 def save(path, items, title, link, desc):
     ET.register_namespace("media", MEDIA_NS)
     root = ET.Element("rss", version="2.0")
-    root.set("xmlns:media", MEDIA_NS)
     ch = ET.SubElement(root, "channel")
     ET.SubElement(ch, "title").text        = title
     ET.SubElement(ch, "link").text         = link
