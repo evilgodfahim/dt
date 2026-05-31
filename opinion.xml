@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Sat, 30 May 2026 22:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 00:02:12 +0000</lastBuildDate>
     <item>
       <title>The values of Eid must guide us forward</title>
       <link>https://www.dhakatribune.com/opinion/editorial/411382/the-values-of-eid-must-guide-us-forward</link>
@@ -62,72 +62,96 @@
       <link>https://www.dhakatribune.com/opinion/op-ed/411064/is-bangladesh%E2%80%99s-rice-bowl-under-threat</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/411064/is-bangladesh%E2%80%99s-rice-bowl-under-threat</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/25/22b64acd17af03dd921bed2dc89057a7-6a13da0316e97.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/25/22b64acd17af03dd921bed2dc89057a7-6a13da0316e97.jpeg" medium="image" />
     </item>
     <item>
       <title>Bangladesh dreams of electric vehicles</title>
       <link>https://www.dhakatribune.com/opinion/editorial/410986/bangladesh-dreams-of-electric-vehicles</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/410986/bangladesh-dreams-of-electric-vehicles</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/09/24/Untitled-1100-x-620-px-14-40e7b065edb15c7f4d26af86a4b69724.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/09/24/Untitled-1100-x-620-px-14-40e7b065edb15c7f4d26af86a4b69724.jpg" medium="image" />
     </item>
     <item>
       <title>Bangladesh is failing its children</title>
       <link>https://www.dhakatribune.com/opinion/editorial/410985/bangladesh-is-failing-its-children</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/410985/bangladesh-is-failing-its-children</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/24/815304ae769e0d3b53cd987543d74fb1-6a121852f0602.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/24/815304ae769e0d3b53cd987543d74fb1-6a121852f0602.jpeg" medium="image" />
     </item>
     <item>
       <title>Is inequality falling because we all now get free stuff online?</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/410984/is-inequality-falling-because-we-all-now-get-free</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/410984/is-inequality-falling-because-we-all-now-get-free</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2023/08/12/cyberbullying-girl-victim-online-harassment-representational-photo-b06a0b190436a5301811f20853c34d6f.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2023/08/12/cyberbullying-girl-victim-online-harassment-representational-photo-b06a0b190436a5301811f20853c34d6f.jpg" medium="image" />
     </item>
     <item>
       <title>How many more children?</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/410983/how-many-more-children</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/410983/how-many-more-children</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/24/b9a2ae71867d02db0bd06a5347fe5e21-6a12169eb9fc9.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/24/b9a2ae71867d02db0bd06a5347fe5e21-6a12169eb9fc9.jpeg" medium="image" />
     </item>
     <item>
       <title>The international community is abandoning the Rohingya</title>
       <link>https://www.dhakatribune.com/opinion/editorial/410915/the-international-community-is-abandoning-the</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/410915/the-international-community-is-abandoning-the</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/23/244576960ef46d4ba7908e5a95d4ce38-6a11303804130.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/23/244576960ef46d4ba7908e5a95d4ce38-6a11303804130.jpg" medium="image" />
     </item>
     <item>
       <title>A dangerous failure of healthcare planning</title>
       <link>https://www.dhakatribune.com/opinion/editorial/410914/a-dangerous-failure-of-healthcare-planning</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/410914/a-dangerous-failure-of-healthcare-planning</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/23/47a175efe8b4716cba032c974edae3c4-6a112f9696cf9.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/23/47a175efe8b4716cba032c974edae3c4-6a112f9696cf9.jpg" medium="image" />
     </item>
     <item>
       <title>Evaluating the legal protection available to private university teachers</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/410913/evaluating-the-legal-protection-available-to</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/410913/evaluating-the-legal-protection-available-to</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/09/11cbfa94476b3b81da93180abc31a670-69d78ed2b05c4.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/04/09/11cbfa94476b3b81da93180abc31a670-69d78ed2b05c4.jpg" medium="image" />
     </item>
     <item>
       <title>The cotton gambit</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/410912/the-cotton-gambit</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/410912/the-cotton-gambit</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/23/193a43af9453781bfecba0ac6283c27d-6a112e7b4723f.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/23/193a43af9453781bfecba0ac6283c27d-6a112e7b4723f.jpg" medium="image" />
     </item>
     <item>
       <title>Protecting our biodiversity is protecting our future</title>
       <link>https://www.dhakatribune.com/opinion/410858/protecting-our-biodiversity-is-protecting-our</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/410858/protecting-our-biodiversity-is-protecting-our</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/22/1ae40b36229c2d9a98e064d7dd5a9adb-6a10226a0ea85.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/22/1ae40b36229c2d9a98e064d7dd5a9adb-6a10226a0ea85.jpeg" medium="image" />
     </item>
     <item>
       <title>Stop burdening the general public</title>
       <link>https://www.dhakatribune.com/opinion/editorial/410857/stop-burdening-the-general-public</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/410857/stop-burdening-the-general-public</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/22/c98e7b05da5fdee717dceca67cf66fc2-6a10214d9020f.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/05/22/c98e7b05da5fdee717dceca67cf66fc2-6a10214d9020f.jpeg" medium="image" />
     </item>
     <item>
       <title>Rethinking biodiversity conservation in the Sundarbans</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/410838/rethinking-biodiversity-conservation-in-the</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/410838/rethinking-biodiversity-conservation-in-the</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/11/06/Sundarbans-Deer-Chitra-Deer-d4706be88bfa5ba7a3e01503f5320885-4366b9c4152ae089b5ada9dfd00c00e8.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/11/06/Sundarbans-Deer-Chitra-Deer-d4706be88bfa5ba7a3e01503f5320885-4366b9c4152ae089b5ada9dfd00c00e8.jpg" medium="image" />
     </item>
     <item>
       <title>Power subsidies: A history of policy failures</title>
