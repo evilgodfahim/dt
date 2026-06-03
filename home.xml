@@ -4,7 +4,7 @@
     <title>Dhaka Tribune - Home</title>
     <link>https://www.dhakatribune.com/</link>
     <description>Latest news from Dhaka Tribune</description>
-    <lastBuildDate>Wed, 03 Jun 2026 21:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:44:09 +0000</lastBuildDate>
     <item>
       <title>Master plan for taxpayers: Uncovering draft tax-free income limits till FY31</title>
       <link>https://www.dhakatribune.com/business/411682/uncovering-draft-tax-free-income-limits-till-fy31</link>
@@ -152,93 +152,7 @@
     <item>
       <title>Beyond connectivity: Bangladesh's telcos must reinvent to survive</title>
       <link>https://www.dhakatribune.com/opinion/longform/411694/beyond-connectivity-bangladesh-s-telcos-must</link>
-      <description>Imagine a bustling market square in rural Barishal. A farmer stands by his harvest, streaming high-definition video on a digital marketplace to showcase his crop while checking real-time market rates via a third-party app.
-
-On the surface, this scene is the ultimate triumph for Bangladesh’s mobile network operators, who connect over 185 million active SIMs. Yet, behind the screen, a silent financial strain threatens to cripple the sector.
-
-While the farmer’s data consumption soars, the operator providing the invisible highway earns less per gigabyte than ever before. The commoditization of the “dumb pipe” has peaked. Networks are flooded; the capital required to maintain them scales exponentially but financial returns have hit a point of diminishing returns.
-
-From peak to plateau
-
-For nearly three decades, the playbook for Bangladesh’s MNOs was based on a reliable growth formula: Deploy capital, build towers, sell SIMs, and monetize voice and data.
-
-This volume-driven model turned Bangladesh into one of South Asia's most digitally inclusive nations.
-
-However, recent indicators point to a structural exhaustion of this legacy growth model -- a reality underscored by the BTRC’s latest market data. From a peak of approximately 136 million internet subscribers in July 2025, the country lost around seven million users in just six months, dropping mobile subscriptions to 114.22 million by January 2026.
-
-While some contraction stems from a policy restricting SIM ownership per individual, pressure on average revenue per user (ARPU) predates regulatory clean-ups.
-
-OTT applications have eroded voice revenues, data prices are in a race to the floor, and infrastructure costs keep climbing. The pipeline is full of traffic, but the business model built around that pipeline is running dry.
-
-Realism over hype
-
-This is not a Bangladesh-specific phenomenon. According to PwC ’s Global Telecoms Outlook, global telecom service revenues are projected to grow at a compound annual growth rate (CAGR) of just 2.9% through 2028, well below inflation in most markets.
-
-Global mobile ARPU is expected to decline from $6.32 in 2024 to $6.20 by 2029, with inflation-adjusted ARPU already below zero in major markets since 2018. This data proves that selling raw connectivity is a commodity trap.
-
-Globally, the most resilient operators have drawn the same conclusion: The only exit is a fundamental redesign of the telecom business model.
-
-Blueprint for the new telco model
-
-Escaping the commodity trap lies in transforming telcos from simple bandwidth providers into core digital platforms.
-
-This requires a radical rethink of infrastructure, software monetization, and industry convergence. The following four pillars outline a structural blueprint to transition Bangladesh's operators into high-yield technology companies.
-
-Unbundling the network: The most instructive model for structural redesign comes from Europe. In July 2024, Telecom Italia (TIM) sold its fixed-network infrastructure branded ‘NetCo,’ for €22 billion, slashing its net debt by €13.8 billion.
-
-TIM became the first Tier-1 European giant to split into a wholesale-only infrastructure entity and a service-focused retail operator (ServCo), freeing itself from a massive debt pile of depreciating assets to compete on value, agility, and digital services across consumer and enterprise markets. Denmark’s TDC Group originally pioneered this structural blueprint in 2019.
-
-The principle is universal: Infrastructure ownership is a capital anchor in a low-ARPU environment. Unlocking it through structural separation allows the service business to invest in high-margin layers above the pipe.
-
-Experts identify tower companies, neutral fiber sharing, and asset separation as essential capex discipline tools for the 5G-Advanced era. While Bangladesh’s operators have gone beyond tower sharing and made early moves toward active RAN sharing, accelerating toward fully independent infrastructure entities is the financially sound next step.
-
-Monetizing the network API: The second transformation requires opening the network as a programmable asset. The GSMA Open Gateway initiative provides a framework of standardized application programming interfaces (APIs).
-
-These APIs expose core network capabilities including device location, SIM-swap detection, number verification, and quality-on-demand provisioning directly to software developers and enterprise platforms.
-
-Research from NTT DATA projects the global network API market will reach $14.3 billion by 2030 and $27bn by 2033, heavily concentrated in identity verification, fraud prevention, and dynamic quality-of-service provisioning for real-time applications.
-
-For Bangladesh, this model holds massive potential.
-
-A local fintech platform verifying user identities via real-time SIM data, an e-commerce operator tracking account takeovers, or a logistics company securing guaranteed bandwidth for a time-sensitive delivery app should all buy these capabilities through an automated telco marketplace.
-
-This shifts operators from passive, low-yield highways into active, monetization-ready infrastructure partners for the digital economy.
-
-The enterprise frontier : The third transformation is the hardest to execute but offers the highest potential margins: Shifting from bulk connectivity to selling enterprise outcomes.
-
-IoT application enablement platforms are projected to grow at a 31% CAGR between 2024 and 2029 to approach $250bn, while automotive and mobility cellular IoT will more than double to $34.1bn by 2028.
-
-This addressable market is broader than local operators recognize. Bangladesh’s ready-made garment sector needs real-time supply chain tracking, while agricultural value chains require cold-storage and commodity-pricing IoT networks.
-
-Beyond standard connectivity, modern ports, industrial zones, and critical infrastructure demand private 5G networks with guaranteed uptime, zero-trust identity management, and edge AI processing.
-
-The Chittagong Port, which handles over 92% of Bangladesh’s international trade, is a prime target. Operators can sell the port an integrated managed solution combining secure connectivity, tower-mounted counter-intrusion sensing, and sovereign edge compute.
-
-Globally, ports and heavy industries are deploying dedicated infrastructure because they need mission-grade networks rather than best-effort broadband.
-
-Data from Ericsson's Private 5G Resource Centre points to critical infrastructure and defense-adjacent environments as the primary growth frontiers for standalone enterprise networks. Bangladesh’s operators already own the BTS, spectrum, and footprint; they must now build the systems integration capabilities to package this infrastructure as an outcome rather than a connection.
-
-The fintech convergence : The fourth transformation is the convergence of telecom and financial services into something far deeper than a mere referral arrangement.
-
-Bangladesh boasts one of the world's most mature mobile financial services (MFS) ecosystems. What it lacks is the integration of operator datasets, such as recharge behaviour, network consistency, and geographic usage patterns into credit-scoring systems.
-
-Deploying this data would allow fintech platforms and partner banks to deliver nano-loans, micro-insurance, and related savings products directly within an operator’s user interface.
-
-The architecture is available and the data assets exist; only the commercial drive to deploy them is missing.
-
-From pipeline to platform
-
-The telecom roadblock in Bangladesh is not an engineering problem; it is the natural lifecycle end of a legacy business model. The network works, but the business built around it was designed for a world of scarce connectivity that no longer exists.
-
-Structural asset separation, open network APIs, enterprise-grade infrastructure solutions, and embedded financial services are not distant, aspirational concepts. They are the real-word responses of operators globally facing the exact structural pressures Bangladesh encounters today.
-
-However, this blueprint cannot materialize in a regulatory vacuum. Executing it will require BTRC to shift from rigid, layer-locked licensing silos toward a dynamic, ecosystem-driven policy framework.
-
-The operators that adapt alongside far-sighted regulations will survive this transition and define the next chapter of our digital economy.
-
-Those that continue to measure success solely in gigabytes sold will find that the pipeline they spent decades building becomes an expensive monument to a business model the market has already left behind.
-
-Dr Sabbir Ahmad is an engineering and corporate leader with extensive global experience in digital connectivity, energy infrastructure, and sustainable development. He can be reached at sabbir@ieee.org.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/longform/411694/beyond-connectivity-bangladesh-s-telcos-must</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/6ec9a77bcb785702a629caa99fe3216d-6a2094dc8ec96.jpeg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/6ec9a77bcb785702a629caa99fe3216d-6a2094dc8ec96.jpeg" medium="image" />
@@ -246,87 +160,7 @@ Dr Sabbir Ahmad is an engineering and corporate leader with extensive global exp
     <item>
       <title>The power of emotional intelligence</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/411693/the-power-of-emotional-intelligence</link>
-      <description>“Tell me and I forget. Teach me and I remember. Involve me and I learn.”
-
-This famous quote by Benjamin Franklin remains highly relevant even in the present age. Today, the world is witnessing an extraordinary technological revolution. AI has entered almost every aspect of human life, and the field of education is no exception.
-
-Smart classrooms, automated grading systems, virtual tutors, AI-based learning platforms, and applications such as ChatGPT and Gemini are rapidly transforming the teaching and learning process. Many believe that AI will soon dominate education because of its speed, accuracy, and efficiency.
-
-However, despite all these technological advancements, one truth remains undeniable: EI (emotional intelligence) is still more powerful than AI in the teaching and learning arena.
-
-The famous psychologist Daniel Goleman, who popularized the concept of EI, argued that emotional abilities are often more important than intellectual abilities in achieving success.
-
-In educational institutions, this idea becomes even more meaningful.
-
-A teacher with high EI can change students’ lives in ways no software or algorithm can ever accomplish. A machine may provide answers, but only a human being can truly touch another human heart.
-
-Let’s consider a real-life classroom situation in a school. A student in class eight continuously performs poorly in English examinations.
-
-Teachers often complain that he is inattentive and careless. An AI-based learning platform may identify weak grammar skills or lack of vocabulary and provide exercises accordingly.
-
-But an emotionally intelligent teacher may discover something much deeper. The teacher may consult with the student and find out the reasons behind it.
-
-The student’s family is going through a difficult time, and he is emotionally distressed. He cannot concentrate on his studies because his mind is filled with anxiety and fear.
-
-One compassionate conversation from a teacher, one moment of encouragement, or one expression of care can rebuild the confidence of that student. AI can detect patterns, but it cannot genuinely feel empathy.
-
-In colleges and universities, such examples are even more visible. Many university students struggle silently with depression, loneliness, financial stress, or social pressure.
-
-In such circumstances, students often need emotional support more than academic instruction. Imagine a first-year university student from a rural area who has recently moved to a large city for higher education.
-
-She feels isolated and inferior because her classmates speak fluent English while she struggles to communicate. An AI-powered language tool may help her improve pronunciation or grammar, but it cannot understand her embarrassment, fear, or emotional insecurity.
-
-An emotionally intelligent teacher would notice the student’s silence and encourage her with care and support. She may forget the lessons, but she will always remember the teacher who believed in her.
-
-Similarly, a lecturer notices that one student regularly arrives late to class and often falls asleep during lectures. Some teachers become angry and punish the student immediately.
-
-However, an emotionally intelligent teacher decides to talk to the student privately. During the conversation, the teacher discovers that the student works in a restaurant or a call centre at night to support his family and pay tuition fees.
-
-Instead of punishment, the teacher offers flexibility, support, and guidance. That understanding may become the turning point in the student’s academic life.
-
-Can AI understand human struggle in this way? The answer is simple: Not fully.
-
-AI functions through data, algorithms, and prediction models. Human emotions, however, are deeply complex. Emotional pain cannot always be measured mathematically. Sometimes students need silence, sometimes encouragement, and sometimes simply someone who listens. Human emotions require human sensitivity.
-
-Students learn best when they feel emotionally safe. As Maya Angelou famously said, “People will forget what you said, people will forget what you did, but people will never forget how you made them feel.”
-
-Students may not remember every lecture or note, but they remember kindness, encouragement, and emotional support for years.
-
-Likewise, in science or business classes, students often become motivated because of teachers’ enthusiasm and emotional connection.
-
-An encouraging smile, a supportive comment, or simple recognition of students’ efforts can significantly influence academic performance.
-
-EI allows teachers to understand when students need motivation and when they need emotional comfort.
-
-Moreover, education is not only about producing skilled workers; it is about producing good human beings. Schools, colleges, and universities play a major role in teaching values such as empathy, honesty, tolerance, kindness, and social responsibility.
-
-These values are learned primarily through human relationships and observation. Teachers become role models through their behaviour.
-
-The growing dependence on technology also creates certain dangers. Many students today spend excessive time with screens and digital devices. While technology offers convenience, it may also reduce face-to-face interaction and emotional communication.
-
-In some cases, students become academically connected but emotionally disconnected. This makes EI even more important in modern education.
-
-This does not mean AI should be rejected. AI has enormous benefits in education. It can help teachers prepare materials quickly, assist students with personalized learning, support research activities, and make education more accessible.
-
-Students with disabilities can particularly benefit from AI-supported learning technologies. Teachers can also save time through automated administrative tasks.
-
-However, AI should remain a tool, not a substitute for emotionally intelligent educators.
-
-How should future classrooms be designed?
-
-The future classroom should therefore combine technological advancement with human compassion.
-
-Educational institutions should not focus only on technological infrastructure; they should also prioritize emotional well-being, communication skills, empathy, and human development.
-
-Teachers who possess both digital literacy and EI will become the most successful educators of the future. In fact, the importance of EI is increasing because the role of teachers is changing.
-
-In the past, teachers were mainly providers of information. Today, information is available everywhere through the internet and AI systems.
-
-Therefore, modern teachers are becoming mentors, facilitators, counselors, motivators, and emotional guides. These responsibilities require strong EI rather than merely technological knowledge.
-
-Ultimately, machines may imitate human intelligence, but they cannot replicate human emotion, compassion, or humanity. Education without emotional connection becomes mechanical and lifeless. AI may improve efficiency, but EI gives meaning to education.
-
-Dr Mohammad Abu Nayeem is an Assistant Professor, and Md Inzamul Haque is a Lecturer at the Department of English, Southeast University.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/411693/the-power-of-emotional-intelligence</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/ef4deee87e3761d217ad13e5e527c23b-6a2093e35ad4b.jpeg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/ef4deee87e3761d217ad13e5e527c23b-6a2093e35ad4b.jpeg" medium="image" />
@@ -334,63 +168,7 @@ Dr Mohammad Abu Nayeem is an Assistant Professor, and Md Inzamul Haque is a Lect
     <item>
       <title>Turning our water bodies into renewable powerhouses</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/411692/turning-our-water-bodies-into-renewable</link>
-      <description>on acquiring more land for renewable energy. The government is seeking unused public land for solar projects, such as a 130-140 MW plant at the National Special Economic Zone.
-
-To accelerate renewable energy growth, Bangladesh must leverage one of its most strategic and underused resources: Water bodies . Prioritizing these areas will allow the country to overcome land constraints and play to its natural strength s .
-
-Bangladesh is one of the world’s most water-rich countries. Rivers, canals, reservoirs, ponds, and other water bodies exist throughout the country. Many are not used for economic purposes, even as the country struggles to find land for large solar projects.
-
-Floating solar panels offer the clearest path forward to leveraging Bangladesh's unique advantages for energy production.
-
-Globally, floating solar power is gaining momentum. For example, as of 2023, China leads the world with over 1.3 gigawatts (GW) of installed floating solar capacity, including some of the largest projects on reservoirs and former mining sites.
-
-India has also rapidly expanded its floating solar initiatives, surpassing 600 megawatts (MW) with major installations on reservoirs and dam sites.
-
-Indonesia, Thailand, and South Korea have each developed floating solar projects in the hundreds of MW, with Thailand’s Sirindhorn Dam project alone generating over 45 MW. Singapore has also installed significant capacity in its reservoirs, demonstrating the viability of floating solar in urban areas.
-
-These examples show that floating solar is not only technically feasible but is being embraced worldwide as a scalable, innovative solution for clean energy generation.
-
-By embracing floating solar, Bangladesh can unlock a game-changing solution and emerge as a regional leader in innovative, sustainable energy.
-
-Solar plants built on land often face pushback because they compete with farming, housing, and industry. In a crowded country where farmland is shrinking, this problem will worsen. Floating solar lets us make clean electricity without using valuable farmland.
-
-This is especially important for Bangladesh, where farming is closely linked to food security, rural jobs, and social stability. Growing renewable energy should not take away farmland.
-
-Floating solar works well in tropical climates. Water keeps the panels cool, making them more efficient than those on hot land. The panels also help reduce water loss from reservoirs and ponds, which will matter more as climate change affects water supplies.
-
-The government’s recent effort to use unused public land through public-private partnerships (PPPs) should be expanded into a broader policy that leverages all unused public assets for renewable energy. This should cover not just empty land but also suitable public water bodies.
-
-Bangladesh already has some promising sites for this.
-
-Kaptai Lake could become the country’s flagship floating solar-hydro hybrid project. Since hydropower infrastructure already exists there, floating solar could complement electricity generation during daytime hours while improving reservoir management.
-
-Urban retention lakes could help, too. Dhaka, for example, has several water bodies that could support small floating solar systems to power city infrastructure, street lights, or nearby public buildings.
-
-Industrial zones are another good option. Many factories and industrial parks have large ponds and water systems. If the government wants to grow renewable energy through BEZA and PPPs, adding floating solar to these water bodies makes sense. Even irrigation canals and fisheries could be used for well-planned pilot projects in the future.
-
-However, Bangladesh needs to move forward with careful planning, not just enthusiasm.
-
-Not all rivers or water bodies are suitable for floating solar. Many rivers in Bangladesh have strong currents, flooding, erosion, cyclones, and high sediment loads. Installing floating solar systems on open rivers without careful study could cause technical and environmental problems.
-
-A better approach is to use floating solar only in stable water bodies such as reservoirs, industrial ponds, managed lakes, and enclosed canals.
-
-Safeguarding will be a critical challenge. Poorly planned floating solar projects can affect aquatic ecosystems, fish breeding, and local livelihoods. We cannot afford another infrastructure rush that ignores ecological consequences.
-
-Handling cyclones is also key. Floating systems in Bangladesh must survive harsh weather and strong winds. This requires better engineering and good maintenance. Money and technology also remain challenges. Floating solar usually costs more initially than regular solar farms.
-
-The government could introduce financing schemes, such as low-interest loans, tax incentives and grants, to support floating solar projects.
-
-International climate funds and development banks, such as the World Bank, ADB, or the Green Climate Fund, are possible sources of funding.
-
-Public-private partnership models can also help by sharing costs and reducing project risks, encouraging more private investment in this area.
-
-Incentives for local manufacturing and workforce training can further strengthen the support systems needed for a competitive renewable energy industry.
-
-While developing solar projects on idle land is promising, Bangladesh's renewable energy strategy must prioritize floating solar on water bodies for true transformative impact.
-
-With its abundant rivers and water bodies, Bangladesh can redefine its renewable energy future by placing water-based floating solar on par with land-based solutions. This will be our nation’s next major leap in clean energy.
-
-Shafiq R Bhuiyan writes on how communication, culture and corporate social responsibility (CSR) converge to shape a more conscious and compassionate society.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/411692/turning-our-water-bodies-into-renewable</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/1fb0815d88f2f123c086cd9e9e349ad2-6a20934ead733.jpeg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/1fb0815d88f2f123c086cd9e9e349ad2-6a20934ead733.jpeg" medium="image" />
@@ -398,21 +176,7 @@ Shafiq R Bhuiyan writes on how communication, culture and corporate social respo
     <item>
       <title>Getting better at making medicines</title>
       <link>https://www.dhakatribune.com/opinion/editorial/411691/getting-better-at-making-medicines</link>
-      <description>Prime Minister Tarique Rahman’s call for faster registration of patented drugs is timely and urgent, and one that must be heeded.
-
-Bangladesh’s pharmaceutical industry has made remarkable strides, but delays in approving patented medicines sets a worrying and potentially dangerous precedent.
-
-With Bangladesh set to graduate soon from a least developed country (LDC), in the post-LDC era, local pharmaceuticals will be compelled to pay royalties on patented medicines, potentially increasing the cost of life-saving drugs and placing an additional burden on consumers. This is a reality that must be averted, and can only be done so through prudent planning now.
-
-Bangladesh has built a reputation as a producer of affordable generic medicines, supplying both domestic and international markets. But innovation cannot be ignored. Patented drugs represent the cutting edge of medical science, and denying patients timely access undermines both public health and trust in the system.
-
-Of course, faster registration does not mean compromising safety, and rigorous evaluation must remain in place. With that said, efficiency must be prioritized. Streamlined procedures, digital platforms, and clear timelines can ensure that life‑saving drugs reach patients without unnecessary delay.
-
-At the same time, Bangladesh must simultaneously strengthen its intellectual property framework and research capacity, so that local companies can innovate and collaborate with global firms.
-
-The PM’s directive should be treated with the seriousness it warrants. Access to medicine is not a privilege but a right, and it is one that certainly should not be lost for millions of Bangladeshis as we develop further.
-
-The message is clear: Speed up drug registration and save more lives in the future.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/411691/getting-better-at-making-medicines</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/765b618edb4c37bf191ed1ed4d2db4b7-6a208f8d4d169.jpeg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/765b618edb4c37bf191ed1ed4d2db4b7-6a208f8d4d169.jpeg" medium="image" />
@@ -420,23 +184,7 @@ The message is clear: Speed up drug registration and save more lives in the futu
     <item>
       <title>Remittance growth must be matched by worker welfare</title>
       <link>https://www.dhakatribune.com/opinion/editorial/411690/remittance-growth-must-be-matched-by-worker</link>
-      <description>That remittance remains one of the most vital pillars of Bangladesh’s economy is undeniable, providing foreign currency stability and cushioning against external shocks.
-
-Most encouragingly, we continue to see an increase in remittance earnings. In May alone, remittances surged to $3.425 billion, marking a 15.34% increase year‑on‑year. Over the first 11 months of FY26, inflows reached $32.75bn, a remarkable 19% growth compared to the same period last year.
-
-With that said, we must remember to not take these figures for granted. Beyond the impressive numbers are the sacrifices of millions of Bangladeshis working abroad, often in difficult conditions, to sustain their families and strengthen our nation’s reserves. At a time when the world is volatile and our domestic challenges persist, remittance earnings remain a much needed lifeline.
-
-However, while Bangladesh continues to benefit from their work, the workers themselves often remain neglected, with many facing exploitation, unsafe working conditions, and a gross lack of legal protection in host countries.
-
-As such, it is time to stop the double standard, where their contributions are celebrated in statistics but their real-life struggles are ignored.
-
-We cannot talk about truly honouring our expatriate workers without going beyond applauding remittance figures and truly having the needed policies and practices in place to assist them.
-
-This means stronger bilateral agreements to safeguard rights abroad, fair and transparent recruitment processes free of corruption and exploitation, and reintegration programs to support returnees with skills and opportunities at home.
-
-Above all, the government in particular must ensure that the workers who fuel our economy are treated with dignity and fairness.
-
-Remittances continue to be a symbol of the resilience and commitment of Bangladeshis abroad. However, we cannot continue to rely on their sacrifices without offering protection and support in return.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/411690/remittance-growth-must-be-matched-by-worker</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/b83c44b6baba36dec970f9ba032740db-6a208ef510fbc.jpeg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/04/b83c44b6baba36dec970f9ba032740db-6a208ef510fbc.jpeg" medium="image" />
