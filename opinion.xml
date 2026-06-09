@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Tue, 09 Jun 2026 12:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 18:14:46 +0000</lastBuildDate>
     <item>
       <title>A pathway for renewable energy development</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/412103/a-pathway-for-renewable-energy-development</link>
@@ -86,48 +86,64 @@
       <link>https://www.dhakatribune.com/opinion/editorial/411869/dengue-preparedness-must-be-robust</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/411869/dengue-preparedness-must-be-robust</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/01/11/e321ef55ba558a67a83047a9f8cba74c-69638ff399e01.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/01/11/e321ef55ba558a67a83047a9f8cba74c-69638ff399e01.jpg" medium="image" />
     </item>
     <item>
       <title>Safe sanitation cannot remain an afterthought</title>
       <link>https://www.dhakatribune.com/opinion/editorial/411868/safe-sanitation-cannot-remain-an-afterthought</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/411868/safe-sanitation-cannot-remain-an-afterthought</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/06/a444bc00e5a71718b12417f5fe90781a-6a23b8bcbaa76.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/06/a444bc00e5a71718b12417f5fe90781a-6a23b8bcbaa76.jpeg" medium="image" />
     </item>
     <item>
       <title>Is China a reluctant superpower?</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/411867/is-china-a-reluctant-superpower</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/411867/is-china-a-reluctant-superpower</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/06/ebf6acceb2b01b904d9e8a88890bdfa8-6a23b82ed5876.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/06/ebf6acceb2b01b904d9e8a88890bdfa8-6a23b82ed5876.jpg" medium="image" />
     </item>
     <item>
       <title>Bangladesh's energy transition needs more than ambition</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/411816/bangladesh-s-energy-transition-needs-more-than</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/411816/bangladesh-s-energy-transition-needs-more-than</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/05/6f2c11a497e1286321cceb85a2992872-6a22b287b5b53.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/05/6f2c11a497e1286321cceb85a2992872-6a22b287b5b53.jpeg" medium="image" />
     </item>
     <item>
       <title>World Environment Day: From awareness to action</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/411795/world-environment-day-from-awareness-to-action</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/411795/world-environment-day-from-awareness-to-action</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2023/10/31/ESG-environment-sustainability-governance-d25efca87c429dd0d3a2cc14693520af.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2023/10/31/ESG-environment-sustainability-governance-d25efca87c429dd0d3a2cc14693520af.jpg" medium="image" />
     </item>
     <item>
       <title>Bangladesh must wake up to its aging crisis</title>
       <link>https://www.dhakatribune.com/opinion/editorial/411787/bangladesh-must-wake-up-to-its-aging-crisis</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/411787/bangladesh-must-wake-up-to-its-aging-crisis</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/05/bb71980fe20f5f5747bd0086371b4433-6a21e32f6afc1.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/05/bb71980fe20f5f5747bd0086371b4433-6a21e32f6afc1.jpeg" medium="image" />
     </item>
     <item>
       <title>Protecting the environment is non-negotiable</title>
       <link>https://www.dhakatribune.com/opinion/editorial/411786/protecting-the-environment-is-non-negotiable</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/411786/protecting-the-environment-is-non-negotiable</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/05/9fc7087a175cd6fa34832f38f1a827bb-6a21e29b59c72.jpeg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/05/9fc7087a175cd6fa34832f38f1a827bb-6a21e29b59c72.jpeg" medium="image" />
     </item>
     <item>
       <title>Climate accountability can no longer be optional</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/411785/climate-accountability-can-no-longer-be-optional</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/411785/climate-accountability-can-no-longer-be-optional</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/02/f548c660af4037231726ff9152804c93-6a1ead141164c.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2026/06/02/f548c660af4037231726ff9152804c93-6a1ead141164c.jpg" medium="image" />
     </item>
     <item>
       <title>A lonely death in Dhaka</title>
