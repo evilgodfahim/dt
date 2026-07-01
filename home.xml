@@ -4,7 +4,7 @@
     <title>Dhaka Tribune - Home</title>
     <link>https://www.dhakatribune.com/</link>
     <description>Latest news from Dhaka Tribune</description>
-    <lastBuildDate>Wed, 01 Jul 2026 17:58:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:01:37 +0000</lastBuildDate>
     <item>
       <title>England face DR Congo hurdle, USA prepare for World Cup moment in spotlight</title>
       <link>https://www.dhakatribune.com/sport/football/414081/england-face-dr-congo-hurdle-usa-prepare-for</link>
@@ -150,284 +150,262 @@
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/414051/10th-anniversary-of-holey-artisan-attack-wednesday</guid>
     </item>
     <item>
+      <title>The future of software engineering</title>
+      <link>https://www.dhakatribune.com/opinion/op-ed/414127/the-future-of-software-engineering</link>
+      <description>The rapid spread of artificial intelligence (AI) has fundamentally changed the landscape of software engineering, simultaneously accelerating productivity and exposing serious gaps in developer education. New and novice developers can now use AI tools to instantly create functional user interfaces, database models, and backend routes with minimal effort.
+
+However, this automation has shifted the main technical responsibility from writing simple syntax to applying complex engineering judgment. Developers now face the urgent challenge of evaluating whether the AI-generated logic is correct, whether data is secure, and whether the system is strictly enforcing the underlying business rules.
+
+The developer workforce in Bangladesh is made up of a dual education system. While formal computer science programs continue to provide the necessary academic discipline and theoretical framework, a large informal education system has emerged as a practical bridge to employable skills in industry.
+
+This system relies largely on public tutorials, community events, and local content. In this informal setting, technology educators typically focus on three distinct learning levels: Teaching tool proficiency (operating specific AI tools), project momentum (building and deploying applications quickly), and engineering judgment.
+
+While analyzing the developer education system in Bangladesh, I came across the work of a software educator who specifically focuses on this third and most difficult layer -- engineering judgment.
+
+He highlighted the cultural shift towards an informal reliance on AI, often colloquially known as “vibe coding.” According to his approach, while the medium of instruction has shifted from traditional programming languages ​​to natural language AI prompts, the core responsibility of the engineer remains unchanged.
+
+He argues that a developer must clearly define software requirements, assess architectural integrity, test edge cases, and deeply understand system behaviour. When these rigorous engineering standards are applied, the use of AI is no longer informal “vibe coding” but rather a highly disciplined engineering practice.
+
+To systematize this philosophy, there is a procedural framework called the "AI coding loop." This procedural cycle explicitly rejects the idea of ​​viewing AI as an automated shortcut and instead presents it as an iterative drafting assistant.
+
+This loop forces the developer to set specific procedural goals, establish strict system constraints, provide clear examples, request code generation in small and manageable steps, implement automated unit testing, and rigorously review the output before iterating the process.
+
+He uses real-world case studies to highlight the hidden vulnerabilities inherent in AI-generated code, particularly in the context of e-commerce shopping cart infrastructure. He shows that an AI tool can easily create a frontend interface that looks perfectly functional -- where buttons are clicked and orders are successfully saved to the database -- yet it is completely missing critical backend security protocols.
+
+If a system incorrectly trusts pricing data sent directly from the client side without backend validation, malicious users can exploit browser requests to purchase products at the wrong price.
+
+The true accuracy of software depends on securing these invisible trust boundaries, which are often overlooked by novice developers who rely solely on AI output.
+
+Realizing that modern AI tools require a structured approach to securely access external data layers, there is a need to prioritize building basic mental models and teach the functional definitions and interactions of 'models', 'contexts', and 'protocols' before moving on to technical implementations.
+
+This fundamental approach ensures that students are not just memorizing isolated tools, but are actively connecting new technologies to existing backend service concepts.
+
+While this concept-centric approach may seem slow to beginners who want to get up to speed quickly on projects, it fills an important gap in the informal education system.
+
+In addition, presenting this complex content in Bengali offers distinct educational benefits beyond mere translation. It allows teachers to shine a light on specific conceptual areas where native learners get stuck and helps them use culturally relevant examples to clarify complex structures.
+
+Finally, as AI dramatically reduces the cost of writing code while simultaneously increasing the risk of shallow technical knowledge, specific educational frameworks are essential for training a workforce capable of critically analyzing machine-generated output.
+
+Anupom Sarker is a freelance contributor.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/414127/the-future-of-software-engineering</guid>
+      <pubDate>2026-07-02T01:30:40+06:00</pubDate>
+    </item>
+    <item>
+      <title>Dengue needs action now</title>
+      <link>https://www.dhakatribune.com/opinion/op-ed/414126/dengue-needs-action-now</link>
+      <description>Dengue fever, once considered a seasonal nuisance in Bangladesh, has morphed into a formidable public health emergency. What was once a manageable concern has now become a persistent, life-threatening crisis that demands our immediate and undivided attention.
+
+As we witness an alarming resurgence of cases across the country, it is clear that we are no longer just battling a mosquito-borne disease; we are confronting a systemic threat to our national health infrastructure and the well-being of our citizens.
+
+Bangladesh is once again entering a dangerous phase of dengue transmission, and the warning signs are already visible. According to Dhaka Tribune’s report, “ Dengue death toll rises to 13; 198 hospitalised in a day ,” the country recorded 13 dengue deaths and 5,515 cases by June 25 this year, with 198 new hospitalisations in just 24 hours.
+
+More recent DGHS figures also show the total rising to 5,800 cases by June 28, while the death toll remains 13. These numbers may still appear lower than the peaks of previous years, but dengue does not wait politely before becoming a crisis.
+
+The greater concern is the pattern. Bangladesh recorded over 102,000 dengue cases and 413 deaths in 2025. In 2024, more than 100,000 people were infected and 575 died. In 2023, Bangladesh faced the largest dengue outbreak, resulting in 321,179 confirmed cases and 1,705 fatalities.
+
+The memory of 2023, the deadliest dengue year on record, still hangs over our hospitals and homes. Every year we say we have learned lessons; every year the mosquitoes seem better prepared than we are.
+
+The statistics are harrowing, and the human toll is even greater. Our hospitals are under immense pressure, with wards overflowing as the number of confirmed cases continues to climb. We are seeing a significant rise in both morbidity and mortality, which reflects a dangerous trend.
+
+This is not merely an urban issue confined to the alleys of Dhaka; it has permeated into suburban and rural areas, highlighting a widespread failure in our containment strategies. The health system, already burdened, is struggling to keep pace with the diagnostic and treatment demands, leaving countless families in a state of anxiety and uncertainty.
+
+As Dhaka Tribune’s editorial “ Dengue preparedness must be robust ” rightly warned, the old habit of waiting for rain, then launching scattered clean-up drives and fogging campaigns, is not enough.
+
+Aedes mosquitoes breed in clean stagnant water, often inside or around homes, offices, construction sites, rooftop tanks, flower pots, tyres, plastic cups, and uncovered containers. In a crowded urban country like Bangladesh, even a small pocket of negligence can become a neighbourhood outbreak.
+
+The responsibility, therefore, must be shared but not diluted. City corporations must lead with science-based surveillance, regular larval surveys, ward-wise hotspot mapping, and visible accountability.
+
+Fogging alone cannot solve dengue. It may kill some adult mosquitoes, but if breeding sites remain untouched, the next generation is already waiting in water. The real battle is source reduction: Empty, scrub, cover, and manage every possible container where water can collect.
+
+Hospitals must also prepare before the surge. Dengue deaths often rise when patients arrive late, when warning signs are missed, or when facilities are overwhelmed. Public and private hospitals need adequate diagnostic kits, IV fluids, trained staff, functional referral systems, and clear triage protocols.
+
+Fever clinics during peak transmission months can reduce pressure on emergency departments. Families should be reminded that dengue patients need rest, fluids, and medical monitoring, not panic-driven platelet chasing.
+
+Public awareness must be simple and repeated. If fever appears with body ache, headache, rash, vomiting, abdominal pain, bleeding, extreme weakness, or dizziness, people should seek medical advice early.
+
+Aspirin and ibuprofen should be avoided unless prescribed, as they may increase bleeding risk. Paracetamol is generally used for fever, but even that should be taken responsibly. Children, pregnant women, elderly people, and those with previous dengue infection need extra caution.
+
+The community role is equally important. Every building, school, market, mosque, factory, and construction site should observe a weekly “10-minute dengue check.” Look for stored water, drain it, cover it, or clean it.
+
+Landlords and building committees must be held responsible for rooftop tanks, basements, garages, and construction materials. Schools can teach children to identify breeding sites; children often carry these messages home better than official posters.
+
+Bangladesh also needs stronger coordination. Dengue control cannot be left only to health officials after patients are already admitted. Local government, WASA, waste management authorities, housing bodies, education institutions, media, and community leaders must work from the same dashboard.
+
+Data should be public, updated, and ward-specific so citizens know where the risk is rising. Preparedness must become a routine system, not an emergency slogan.
+
+Dengue is preventable, but only if prevention becomes daily behaviour and permanent policy. The numbers reported by Dhaka Tribune should not be read as just another health bulletin. They are an early alarm. Bangladesh has suffered enough to know what delay costs. The time to clean, monitor, prepare, and act is not after hospitals fill up. The time is now.
+
+The fight against dengue cannot be won by the government alone, nor by the healthcare sector in isolation. It requires a synchronized effort involving urban planners, community leaders, media outlets, and every single household. We must shift our mindset from reactive treatment to proactive prevention.
+
+The current situation is, without doubt, a national emergency. However, it is one that we can manage if we act with urgency, consistency, and solidarity.
+
+Let us pledge to take responsibility for our immediate surroundings and hold our systems accountable for a robust, science-led response. Our health, our economy, and the lives of our loved ones depend on the actions we take today. The time for complacency has long passed; the time for decisive, collective action is now.
+
+Sumit Banik is a public health activist and trainer.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/414126/dengue-needs-action-now</guid>
+      <pubDate>2026-07-02T01:28:37+06:00</pubDate>
+    </item>
+    <item>
+      <title>Dismantling rape culture</title>
+      <link>https://www.dhakatribune.com/opinion/op-ed/414125/dismantling-rape-culture</link>
+      <description>As the popular saying goes, it takes a village to raise a child, meaning, children need their family, friends and community members to raise them so that they may feel safe and protected.
+
+However, we know that sexual violence is perpetrated inside homes, playgrounds, and other places which are often considered “safe.” For those of us who grew up in the 80s and the 90s, the majority of us are painfully aware of sexual abuse -- this happened often but we were not allowed to talk about it.
+
+This is because the abuser was someone who we knew and trusted, and it would cause a rift in family dynamics if the matter got out. In most cases, children were asked to keep quiet about it, while the family member roamed free, without guilt or shame.
+
+We have also seen a pattern of escalation in recent times; sexual abuse has escalated to rape and murder. Is this escalation in crime a surprise? Absolutely not.
+
+In a country where keeping a family’s honour and respect is paramount, talking about a child losing his/her virginity albeit through a non-consensual way was something too dirty to talk about. The honour and dignity of a family still take priority over seeking justice for a violated child.
+
+We have reached a stage where it is important to take stock of the mental state of the persons who do this and of the society that has allowed this to happen. As parents, our first and most important job is to protect our children. If that means outing a favourite uncle, grandfather, brother, cousin, or friendly neighbour as a sexual predator, so be it.
+
+Children should be told that they can come and talk to us without shame -- if someone has made you feel uncomfortable, if a touch has felt unnatural, they should be able to say that out loud.
+
+Sex education is still not part of our school curriculum and is not likely to be added any time soon. As pre-school aged kids are being violated and killed, at minimum, the lessons on good touch, bad touch should be included as part of their daily curriculum.
+
+Teachers are not trained to spot trauma or signs of early abuse. Our country does not have a “working with children” certification, which is a screening process for assessing or re-assessing people who work with or care for children. This check takes a detailed look at the criminal history and relevant professional conduct findings of applicants to ensure that children are protected from sexual or physical harm.
+
+So, we do not even know who we are entrusting our children with. Schools do not provide counselling service or complaint mechanisms in case something happens to a child. We are letting our children roam free and basically hoping for the best.
+
+Considering how degraded our society has become in terms of values and morals, that is a risk we cannot afford to take.
+
+We need to focus our attention on preventative measures. There is danger lurking in every corner.
+
+First we start from home
+
+I, as a mother, can be branded as paranoid. I watched my children like a hawk and was aware of their every movement. I did not even allow my children to ride the elevator in my building alone or go to the rooftop or playground alone.
+
+Extreme, you may say -- perhaps. All I know is that I am grateful that I was able to raise my children -- from their childhood to adulthood -- abuse free.
+
+This luxury of time is unfortunately not available to most parents.
+
+Think of the homemakers who are busy taking care of everything and everyone in the house. She cannot be a helicopter parent. She might need the support from her children to run errands for her while she manages the housework. How will she keep her children safe?
+
+She can teach them how to keep themselves safe when they are out and about in the community -- stay in groups, not to go to isolated places alone, not to go anywhere with anyone without letting her know first.
+
+When us parents are not able to watch our children, at a minimum, we can give them the knowledge and tools on safety. Despite all precautions, if an incident does occur, children should feel comfortable coming to their parents to share their grief. The topic of sexual violence cannot be a taboo any more.
+
+Then we go to school
+
+Teachers are perfectly positioned to identify and prevent sexual abuse because they spend significant time with our children and can spot changes that parents might miss. Teachers should be trained to identify early warning signs such as shifts in behaviour, or changes in academics or physical well-being.
+
+Behaviour : Sudden withdrawal, aggression, anxiety, depression, or loss of interest in previously enjoyed activities.
+
+Decline in academic performance : Unexplained drops in grades, difficulty concentrating, or frequent absences.
+
+Physical signs : Unexplained injuries or complaints of discomfort.
+
+Sexualized behaviour : Age-inappropriate sexual knowledge, comments, or behaviours, which can be a sign of exploitation or exposure to abusive material.
+
+Teachers should create an environment where students feel comfortable speaking up about concerns without fear of judgment or retaliation.
+
+Encouraging age-appropriate discussions about body safety, boundaries, and healthy relationships enables students to recognize and report inappropriate behaviour.
+
+Regular, positive interactions help establish the teacher as a reliable adult figure, making it more likely a child will disclose abuse to them.
+
+Teachers should also be reminded of the importance of maintaining professional boundaries while interacting with their students.
+
+Schools must adopt and enforce policies regarding one-on-one interactions, such as keeping doors open, ensuring visibility, and using only school-approved communication channels.
+
+Regular training on recognizing signs of abuse, understanding grooming tactics, and knowing reporting procedures is essential.
+
+Awareness campaigns on student safety are also important to create a culture of accountability. Collaborating with parents to reinforce safety messages at home and providing resources on healthy sexual development will also help in creating a safe space for children.
+
+Schools need to establish a reporting mechanism which specifies protocols to inform authorities for taking swift action to protect children. Keeping detailed records of incidents is crucial for investigations.
+
+Confide in a friend
+
+Victims often fear reporting abuse to adults due to shame, fear of retaliation, or distrust of authority figures. Peers can provide a safer, more relatable space for disclosure.
+
+Peer groups can help counteract the normalization of abusive behaviours or "grooming" tactics.” When peers collectively reject these behaviours, it reduces the power abusers have over victims. Peers can offer immediate emotional support and validation, helping victims feel less isolated.
+
+There are, however, challenges with peer groups. Peer pressure can also force individuals into abusive situations. In some cases, peers may be complicit in the abuse, either directly or by staying silent due to fear or loyalty.
+
+Sexual harassment and abuse between peers can become normalized within certain social circles. Also, victims may fear that speaking out will lead to further abuse or social ostracization.
+
+To counteract these challenges, education programs that teach young people about healthy relationships, consent, and the signs of abuse can be implemented by schools. Students can be trained to become peer leaders to act as advocates for their classmates.
+
+Counselling support and helplines
+
+Helplines and counselling can play a vital role in preventing sexual abuse and exploitation by acting as early intervention points, educational resources, and support systems that disrupt the cycle of violence.
+
+Many people call these lines not because they have been abused, but because they are unsure if a situation constitutes abuse.
+
+Counsellors help callers recognize subtle signs of grooming, coercion, or exploitation that might otherwise be ignored.
+
+Abusers rely on secrecy and isolation to maintain control. Helplines provide a confidential, non-judgmental space for survivors to speak out, which breaks the abuser’s power dynamic.
+
+Counsellors are not just there to listen; they can assist survivors create safety plans. This includes locating safe places, explaining rights, and connecting them with legal aid.
+
+We demand implementation of laws that help create a culture of safety, openness, and accountability.
+
+Children have the right to live their lives free of trauma, stigma, and shame. It is our duty to be there for them. We have failed too many of them. This cannot go on.
+
+Barrister Sajeda Farisa Kabir is an Advocate, Supreme Court of Bangladesh, Solicitor (NSW, Australia), and Senior Director, Social Integrity and Environment, SAJIDA Foundation.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/414125/dismantling-rape-culture</guid>
+      <pubDate>2026-07-02T01:25:50+06:00</pubDate>
+    </item>
+    <item>
+      <title>BioFire technology introduced at RMCH ICU for faster infection diagnosis</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/414121/biofire-technology-introduced-at-rmch-icu-for</link>
+      <description>A state-of-the-art diagnostic technology has been introduced at the Intensive Care Unit (ICU) of Rajshahi Medical College Hospital (RMCH) to identify infection-causing pathogens and determine effective antibiotics for critically ill patients within a short time.
+
+The newly installed 'BioFire FilmArray' machine at the ICU Microbiology Lab will reduce the time required for the 'Blood Culture and Sensitivity' test from around 72 hours to only two hours, hospital sources said.
+
+The advanced device, a latest version of multiplex PCR technology, can identify more than 100 pathogens, including bacteria, viruses, fungi and parasites, through a single test.
+
+"Finally, after discussions with the importing company in Bangladesh, the device has been provided to the RMCH ICU free of cost," RMCH ICU In-charge Dr Abu Hena Mustafa Kamal said.
+
+The market price of the newly installed BioFire machine is around Tk 60 lakh, according to the importing company. Each pathogen identification test using the device may cost between Tk 16,000 and Tk 21,500 for a patient.
+
+The device was inaugurated at a ceremony on Sunday, where Debkishore Gupta, South Asia Director of the manufacturing company, joined virtually.
+
+Doctors said the new technology would significantly reduce the delay in selecting appropriate antibiotics for critically ill patients and help provide the right medicine at the right time, improving patient outcomes.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414121/biofire-technology-introduced-at-rmch-icu-for</guid>
+      <pubDate>2026-07-02T00:40:19+06:00</pubDate>
+    </item>
+    <item>
       <title>Shama Obaed: Dhaka always enjoys good ties with Tehran</title>
       <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/414120/shama-obaed-dhaka-always-enjoys-good-ties-with</link>
-      <description>Bangladesh Speaker Hafiz Uddin Ahmad is scheduled to join the state funeral of late Iranian Supreme Leader Ali Khamenei in Tehran, State Minister for Foreign Affairs Shama Obaed Islam said on Wednesday.
-
-Talking to reporters at the Ministry of Foreign Affairs, Shama Obaed said the speaker would join the event at the invitation of the Iranian government.
-
-"Bangladesh's bilateral relationship with Iran has always been good. We have very strong people-to-people relations. We have energy cooperation with Iran," she said.
-
-The funeral of Iran’s late Supreme Leader Ali Khamenei will begin in Tehran on July 4, and he will be buried in his hometown of Mashhad on July 9, according to Iranian state media.
-
-Speaker Hafiz Uddin will visit Tehran at the invitation of Iranian Speaker Mohammad Bagher Qalibaf, a diplomatic source told UNB.
-
-He will pay tribute to the departed Iranian leader on behalf of Bangladesh.
-
-In his invitation letter to his Bangladeshi counterpart, the Iranian speaker wrote: "I cordially invite you to join us so that we may host you at this historic and magnificent ceremony."
-
-Addressing a cabinet meeting on Wednesday, Pezeshkian described the upcoming event as significant and historic, appreciating the organizations and committees overseeing the funeral arrangements in the capital, Tehran, as well as in the holy cities of Qom and Mashhad.
-
-President Masoud Pezeshkian has reiterated his call for maintaining national unity and cohesion, saying these should be reflected in the farewell and burial ceremonies for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, and several of his family members.
-
-Iran announced funeral ceremonies for former Supreme Leader Ali Khamenei more than 100 days after he was killed in Israeli and US strikes, with processions set to begin in Tehran on July 4 and conclude with his burial in the northeastern city of Mashhad on July 9.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/414120/shama-obaed-dhaka-always-enjoys-good-ties-with</guid>
       <pubDate>2026-07-01T23:49:45+06:00</pubDate>
     </item>
     <item>
       <title>Islami Bank to recover after liquidity support, policy tweak</title>
       <link>https://www.dhakatribune.com/business/banks/414119/islami-bank-to-recover-after-liquidity-support</link>
-      <description>Islami Bank Bangladesh PLC—the country’s largest private Shariah-compliant lender—is staging a gradual recovery following weeks of an unprecedented confidence crisis that threatened to fracture the wider financial system.
-
-At the peak of the panic, major commercial outlets refused to honor Islami Bank pay-orders, transactions via the Real-Time Gross Settlement (RTGS) network came to a standstill, and mass customer withdrawals forced branches to cap cash cash-outs below Tk1 lakh.
-
-However, a coordinated rescue plan combining immediate cash injections with key regulatory policy updates has successfully stabilized operations and quieted market speculation.
-
-The operational crisis began in earnest on May 24, when the central bank appointed Khurshid Alam—a figure widely linked to the controversial S. Alam Group—as chairman of Islami Bank.
-
-The appointment triggered immediate street protests by the Islami Bank Conscious Depositors' Forum and sparked widespread anxiety across social media networks.
-
-Fearing a complete collapse of their savings, depositors rushed to withdraw funds en masse, draining the bank’s cash reserves.
-
-As Islami Bank holds a massive retail customer base and a vast branch network, its liquidity freeze immediately threatened the interbank clearing system, forcing the state to step in.
-
-To prevent a systemic run on the banking sector, Bangladesh Bank launched an aggressive emergency rescue plan.
-
-Regulatory officials removed the controversial chairman, dissolved the standing board of directors, and appointed Mohammad Zahir Hossain, executive director of Bangladesh Bank, to run the bank's daily operations.
-
-Unveiling the monetary policy statement on Tuesday, Bangladesh Bank Governor Mostaqur Rahman confirmed that the central bank has provided Tk13,000 crore in direct liquidity support to Islami Bank alone.
-
-Governor Rahman noted that while the previous administration used Tk17,250 crore to support weak financial institutions, the current oversight bodies have had to inject Tk51,000 crore across the broader banking sector to preserve systemic integrity.
-
-Slamming door on corporate defaulters
-
-Alongside the liquidity injection, the long-term outlook for Islami Bank was significantly improved by a crucial legislative amendment in the Jatiya Sangsad.
-
-Finance Minister Amir Khasru Mahmud Chowdhury announced the permanent deletion of Section 18(a) from the Bank Resolution Act 2026.
-
-The removal of Section 18(a) effectively blocks former majority corporate shareholders, such as the S Alam Group, from ever using legal loopholes to regain ownership or control of restructured financial institutions.
-
-Bank officials report that the dual strategy of capital support and structural reform has effectively restored consumer trust. Panic withdrawals have stopped, new retail deposits are increasing, and standard cash-out limits have safely expanded past Tk2 lakh per account.
-
-Independent macroeconomists point out that while this emergency liquidity package successfully averted an immediate collapse, long-term stability depends on deeper structural reforms.
-
-Moving forward, the central bank must focus on recovering non-performing loans (NPLs), chasing down laundered offshore assets, and keeping the newly appointed professional board free from political interference.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/business/banks/414119/islami-bank-to-recover-after-liquidity-support</guid>
       <pubDate>2026-07-01T23:47:04+06:00</pubDate>
     </item>
     <item>
       <title>FY27: Can an ambitious budget restore consumer stability?</title>
       <link>https://www.dhakatribune.com/business/414118/can-an-ambitious-budget-restore-consumer</link>
-      <description>The Jatiya Sangsad has officially passed a massive Tk9.38 lakh crore national budget for FY27.
-
-Effective from July 1, this extensive fiscal framework serves as a critical economic roadmap determining how expensive or manageable daily life will become for every family, salaried professional, retail merchant, farmer, and youth entrepreneur across Bangladesh over the next 12 months.
-
-Faced with a persistent 9% inflation rate, the government has set a target to cool the consumer index down to 7.5% by next June.
-
-However, macroeconomists and research groups point out that while the policy parameters offer visible relief on paper, the true metric of success depends entirely on structural implementation.
-
-To directly insulate lower- and middle-income groups against rising consumer price indexes, the passed Finance Bill introduces significant structural changes to personal tax compliance:
-
-By expanding the tax-exempt ceiling to Tk4 lakh, the state removes thousands of marginal wage earners from the tax net.
-
-To respect public opinion and keep liquid funds within formal commercial channels, citizens can continue to open bank accounts, mutational titles, and municipal property deeds without a mandatory Taxpayer Identification Number (TIN).
-
-Furthermore, the complete cancellation of the controversial black money whitening window signals a strong push toward establishing tax equity.
-
-To meet the 7.5% inflation target, the executive branch has finalized targeted reductions in indirect taxes to lower corporate overhead costs and boost supplies.
-
-The budget slashes import tariffs and advance taxes on core manufacturing raw materials, covering pharmaceuticals, electrical cable manufacturing, refined copper, and fire-safety equipment.
-
-To ease financial pressure on middle-class families, the flat corporate tax on private universities, medical schools, and engineering colleges has been halved to 5%.
-
-Publicly traded companies must distribute at least 30% of net post-tax profits as dividends; any shortfalls will face a 10% penalty tax on the retained deficit.
-
-Conversely, to bring the informal economy into documented channels, the state has made the Business Identification Number (BIN) legally mandatory for renewing trade licenses, securing corporate bank credit, and maintaining merchant Mobile Financial Services (MFS) accounts.
-
-The macro gap
-
-Despite these progressive tax cuts, independent public finance specialists warn that an ambitious revenue architecture creates heavy financing risks for the real economy.
-
-Independent analysts from the Centre for Policy Dialogue (CPD) note that reaching the Tk6.95 lakh crore revenue target requires a near 40% growth rate compared to actual collections from the previous fiscal.
-
-If the NBR misses this target, the state will have to borrow heavily from domestic commercial banks to cover its Tk2.43 lakh crore deficit.
-
-This could crowd out credit for private enterprises and slow down job creation.
-
-Furthermore, external debt servicing pressures are rising sharply. Economists estimate that foreign debt repayments could hit nearly $4.5 billion by the close of the fiscal year, placing extra strain on the central bank's foreign exchange reserve pipeline.
-
-The FY27 budget succeeds in sending positive signals through targeted tax breaks, infrastructure spending, and a dedicated Tk500 crore startup fund for youth entrepreneurs.
-
-However, the ultimate success of this Tk9.38 lakh crore plan hinges on the government's ability to lower daily commodity prices, manage supply-chain logistics, and prevent credit crowding out in the private sector.
-
-True economic relief for ordinary citizens will not be measured by legislative text, but by visible price stability in retail marketplaces and steady growth in formal employment.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/business/414118/can-an-ambitious-budget-restore-consumer</guid>
       <pubDate>2026-07-01T23:45:38+06:00</pubDate>
     </item>
     <item>
       <title>LEEDO launches network to empower young journalists for child rights advocacy</title>
       <link>https://www.dhakatribune.com/bangladesh/414117/leedo-launches-network-to-empower-young</link>
-      <description>The Local Education and Economic Development Organization (LEEDO) on Wednesday launched a new Network Group aimed at strengthening the role of young journalists in advocating for the rights of underprivileged children and promoting positive social change through responsible journalism.
-
-The network was inaugurated at an event held at Velisse in Dhanmondi under LEEDO's Young Journalist Changemaker project. The initiative brings together LEEDO's young journalists, social workers, media professionals and members of civil society to build a collaborative platform focused on ethical journalism and child rights.
-
-Joining the programme virtually, LEEDO Founder and Executive Director Md Forhad Hossain said responsible journalism is essential for protecting the rights of disadvantaged children and bringing their stories to the attention of society.
-
-"There is no alternative to responsible journalism in protecting the rights of underprivileged children and bringing their realities to the forefront of society," he said.
-
-He added that the young journalists trained under the project could play a significant role in driving positive social change through their writing and investigative reporting, while the newly formed network would further strengthen ethical journalism and social advocacy.
-
-Forhad also stressed that the media has a critical role in highlighting issues such as child rights, social justice, inequality and climate change. He said the Young Journalist Changemaker initiative seeks to equip young people with journalism skills rooted in ethics, integrity and humanitarian values.
-
-Representatives of LEEDO attend the launch of the Young Journalists Network Group to promote ethical journalism and child rights advocacy, in Dhaka on Wednesday, July 1, 2026. Photo: Dhaka Tribune
-
-The event was attended by Engineer Abul Bashar, LEEDO Finance Director Murshida Kanta, theatre activist Shamima Lovely, social worker Anwarul Karim and Md Harun Or Rashid, among others. Representatives from Bangladesh Scouts, the University of Dhaka, Somoy TV, Jamuna TV, as well as officials from various government and non-government organizations, also participated.
-
-Speakers at the event underscored the importance of strengthening the capacity of young journalists to accurately report on the lives, rights and challenges of underprivileged children. They said ethical journalism can help raise awareness, influence public opinion and contribute to policy changes that benefit vulnerable children.
-
-Participants also shared their experiences and future plans regarding child rights, social justice and the role of responsible media in addressing issues affecting disadvantaged communities.
-
-According to the organizers, LEEDO has been working for more than 25 years to promote education, protection, rehabilitation and social inclusion for street-connected and disadvantaged children across Bangladesh.
-
-Building on that experience, the organisation established the new network to foster collaboration among media organizations, development partners and civil society groups. The platform is expected to support regular communication, information sharing, joint initiatives and policy-level advocacy to advance the rights and well-being of underprivileged children.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/414117/leedo-launches-network-to-empower-young</guid>
       <pubDate>2026-07-01T23:44:39+06:00</pubDate>
     </item>
     <item>
       <title>Ad-Din Hospital closure leaves medical students in uncertainty</title>
       <link>https://www.dhakatribune.com/bangladesh/414116/ad-din-hospital-closure-leaves-medical-students-in</link>
-      <description>The suspension of operations at Ad-Din Medical College Hospital has disrupted the medical education of hundreds of students, including many foreign nationals, by halting the clinical training and internships required to complete their MBBS degrees.
-
-The closure followed the cancellation of the hospital's license, leaving students of Ad-Din Women's Medical College uncertain about completing their academic and internship requirements. Students and college authorities fear a prolonged shutdown could affect degree recognition for international graduates and undermine Bangladesh's standing as a destination for medical education.
-
-According to college sources, around 500 students are enrolled across 4 academic years, while another 100 students remain in the old fifth-year curriculum. Nearly 45% of the students are foreign nationals, mainly from India's Kashmir and Assam regions, as well as Nepal and the Maldives.
-
-Under medical education regulations, students must complete clinical training and internships at the teaching hospital affiliated with their medical college. Since the hospital remains closed, those academic activities have been suspended.
-
-According to the National Medical Commission (NMC) of India, students pursuing MBBS abroad must complete both their academic program and internship at the same institution. Students said failure to restore the hospital's license could affect the recognition of their degrees and professional registration in India.
-
-The prolonged closure has also forced many foreign students to remain in Bangladesh longer than expected, increasing accommodation and living expenses. Students and college authorities fear the situation could affect Bangladesh's reputation as a destination for medical education.
-
-Fourth-year student Sohfia from Kashmir told Dhaka Tribune: "Under Indian law, students studying abroad must complete their internship at the hospital affiliated with the same medical college. If we complete our internship at another hospital, that certificate will not be accepted. So we are living with deep uncertainty."
-
-She added: "My family has already spent around Tk3.5 million on my education. Now that dream is uncertain because the hospital's license has been cancelled. Not only us, but our guardians are also extremely worried."
-
-Third-year student Shreya said the rules of the Bangladesh Medical and Dental Council (BMDC) also require students to complete clinical classes and internships at their own institution's teaching hospital.
-
-She said: "Those responsible for the incident should face action. But the students' future should not be harmed. We want the government to restore the hospital's license quickly."
-
-Some Bangladeshi students are attempting to transfer to other medical colleges. However, students said existing regulations would continue to create uncertainty over internships and clinical training unless those rules are revised.
-
-Ad-Din Foundation Director (Company Affairs) Tariqul Islam Mukul told Dhaka Tribune that although the government has instructed that students may complete internships at other medical colleges, current regulations do not permit implementation of that decision.
-
-He said: "We have informed the government of the matter in writing. Now we are waiting for the government's decision."
-
-Mukul said renovation work is underway at the hospital. He said the room where the child's death occurred had remained closed for a long time and has now been reopened for renovation. Engineers are working to improve ventilation, assess air circulation, and examine oxygen and carbon dioxide levels.
-
-He added: "We hope the government will restore the hospital's license, considering the future of the students."
-
-Ad-Din Women's Medical College Hospital Principal Professor Dr Mahmuda Hassan said practical bedside training is an essential part of medical education and cannot be replaced by theoretical classes alone.
-
-She said: "According to NMC guidelines, foreign students must complete all classes and internships at the same institution. BMDC rules also contain similar requirements. Because the hospital is closed, students are facing a major crisis."
-
-She added: "This crisis is not only a concern for the students but also for the country. Every year, a significant number of students come here from India, Nepal, the Maldives and other countries. The current situation may damage the image of Bangladesh's medical education internationally."
-
-The principal said examinations are being conducted at a nearby hospital with special permission. If the hospital's license is restored, the college plans to recover the academic shortfall by arranging additional classes within 20 to 25 days.
-
-The Director General of the Directorate General of Health Services (DGHS), Professor Dr Prabhat Chandra Biswas, told Dhaka Tribune that no decision has yet been made on restoring the hospital's license.
-
-The Director General of the Directorate General of Medical Education (DGME), Professor Dr Nazmul Hosain, said the next decision regarding Ad-Din Medical College will depend on the Health Directorate's decision on the hospital.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/414116/ad-din-hospital-closure-leaves-medical-students-in</guid>
       <pubDate>2026-07-01T23:35:55+06:00</pubDate>
     </item>
     <item>
       <title>Coast Guard rescues all crews after lighter vessel sinks in Karnaphuli Channel</title>
       <link>https://www.dhakatribune.com/bangladesh/nation/414115/coast-guard-rescues-all-crews-after-lighter-vessel</link>
-      <description>Bangladesh Coast Guard rescued 12 crew members after a lighter vessel sank in the Karnaphuli Channel following a collision with another cargo vessel Tuesday morning.
-
-Lieutenant Commander Sabbir Alam Sujan, Media Officer of the Bangladesh Coast Guard, confirmed that all crew members were rescued alive and provided with necessary medical assistance, said a press release.
-
-According to the Coast Guard, the accident occurred at approximately 3am near Ghat No. 18 of the Karnaphuli River under Patenga Police Station. The lighter vessel MV Bay Harbor-2 collided head-on with MV Samuda-6, which was on its way to Dhaka.
-
-The impact severely damaged MV Bay Harbor-2, causing its hull to rupture and water to rapidly enter the vessel. The ship began listing before drifting a short distance and eventually sinking almost completely between Outer Anchorage Buoys No. 2 and No. 3.
-
-Immediately after receiving the distress report, the Coast Guard's Patenga Outpost, operating under the East Zone, launched a search and rescue mission. Rescue teams successfully pulled eight crew members from the sinking vessel.
-
-The remaining four crew members were swept away by strong currents toward Parkir Char but managed to reach the shore safely on their own.
-
-Following the rescue, all crew members received first aid and necessary medical support before being handed over to the vessel's authorities.</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414115/coast-guard-rescues-all-crews-after-lighter-vessel</guid>
       <pubDate>2026-07-01T22:45:33+06:00</pubDate>
-    </item>
-    <item>
-      <title>Ansar-VDP launches media cell Prantik Kanthoswar</title>
-      <link>https://www.dhakatribune.com/bangladesh/nation/414114/ansar-vdp-launches-media-cell-prantik-kanthoswar</link>
-      <description>Bangladesh Ansar and Village Defence Party (Ansar-VDP) has officially inaugurated its new media cell titled ‘Prantik Kanthoswar’, aimed at highlighting the struggles and achievements of marginalized communities while showcasing the organization’s contributions at the national level.
-
-The inauguration ceremony was held on Wednesday at the Ansar-VDP headquarters. The initiative was formally launched by the Honorable Minister for Information and Broadcasting, Zahir Uddin Swapan, who attended the event as chief guest, said a press release.
-
-In his address, the minister said Prantik Kanthoswar would serve as an important bridge for implementing the government’s development agenda and effectively communicating the activities of Ansar-VDP to the public.
-
-State Minister for Railways and Road Transport and Highways Habibur Rashid, MP, attended the program as special guest.
-
-The program was chaired by Director General Major General Abdul Motaleb Sajjad Mahmud, who emphasized that Ansar-VDP’s large workforce can be better utilized in structured socio-economic development activities. He also said the platform would help bring forward grassroots stories, including local successes often absent from mainstream media.</description>
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414114/ansar-vdp-launches-media-cell-prantik-kanthoswar</guid>
-      <pubDate>2026-07-01T22:41:53+06:00</pubDate>
-    </item>
-    <item>
-      <title>President urges journalists to uphold highest standards of professionalism, ethics</title>
-      <link>https://www.dhakatribune.com/bangladesh/nation/414113/president-urges-journalists-to-uphold-highest</link>
-      <description>President Mohammad Shahabuddin on Wednesday called upon members of the Law Reporters Forum (LRF) to uphold the highest standards of professionalism, ethics, integrity and responsibility in journalism.
-
-“Lawful journalism serves as an important bridge between the judiciary and the people as well,” he told the LRF leaders as its 12-member delegation led by its President Hasan Zaved and General Secretary Moniruzzaman Mission paid a courtesy call on him at Bangabhaban.
-
-The Head of the State said law reporters play a vital role in disseminating objective, accurate and responsible reports on court proceedings and significant verdicts.
-
-He said the journalists, those who work with legal profession, are also making a significant contribution to raising public awareness about legal issues through simple and understandable reporting.
-
-Referring to the supremacy of the Constitution, the rule of law and the establishment of justice as the fundamental pillars of a democratic state, Mohammad Shahabuddin said, “The government is working with the highest priority to ensure the rule of law, justice, human rights and good governance in line with the Constitution.”
-
-The President said various initiatives are being implemented to modernise the judiciary and expand the use of information technology (IT) in the justice system.
-
-Access to justice would become easier and faster if the judiciary, lawyers, journalists and all other stakeholders work together with sincerity and commitment, he mentioned.
-
-The President urged journalists to practise responsible journalism while maintaining the dignity of the courts and respecting the sensitivity of sub judice matters.</description>
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414113/president-urges-journalists-to-uphold-highest</guid>
-      <pubDate>2026-07-01T22:36:38+06:00</pubDate>
-    </item>
-    <item>
-      <title>JICA President Tanaka Akihito meets FM, state minister</title>
-      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/414112/jica-president-tanaka-akihito-meets-fm-state</link>
-      <description>Japan International Cooperation Agency (JICA) President Dr Tanaka Akihito, along with Japan’s Parliamentary Vice-Minister for Foreign Affairs Shimada Tomoaki, met Foreign Minister Dr Khalilur Rahman and State Minister Shama Obaed Islam on Wednesday.
-
-Japan International Cooperation Agency President Dr Tanaka Akihito and Parliamentary Vice-Minister Shimada Tomoaki meet State Minister Shama Obaed Islam in Dhaka on Wednesday, July 1, 2026. Photo: Courtesy
-
-The separate meetings that took place at the Cabinet Division of the Secretariat reaffirmed the shared commitment of Japan and Bangladesh to further strengthen their long-standing partnership through JICA’s development cooperation, supporting sustainable economic growth and deeper bilateral ties.</description>
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/414112/jica-president-tanaka-akihito-meets-fm-state</guid>
-      <pubDate>2026-07-01T22:35:05+06:00</pubDate>
-    </item>
-    <item>
-      <title>Jamalpur Municipality unveils Tk 51.13 crore budget for FY 2026–27</title>
-      <link>https://www.dhakatribune.com/bangladesh/nation/414111/jamalpur-municipality-unveils-tk-51.13-crore</link>
-      <description>A budget of Tk 51,12,87,756  has been announced for Jamalpur Municipality for the 2026–27 fiscal year, while total expenditure is estimated at Tk 49,11,36,552 . No new taxes have been proposed.
-
-The budget was unveiled at a press conference at the municipality office on Monday. Administrator Mousumi Khanam said the proposal was prepared based on existing revenue and expenditure trends and aims to accelerate local development activities.
-
-Projected revenue income for the fiscal year stands at Tk 21,12,35,545 , with expenditure estimated at Tk 19,20,27,000 . The water supply branch is expected to generate Tk 51,92,609  in income, against an expenditure of Tk 50,74,500 .
-
-Under development and government-assisted projects, income is projected at Tk 29,48,59,599 , with expenditure of Tk 29,40,35,052 . This includes ADP-funded initiatives, urban infrastructure development projects, healthcare assistance, and COVID-19 response and recovery programmes.
-
-Officials said the budget prioritises infrastructure expansion and improved service delivery across key sectors, expressing hope that effective implementation will strengthen civic facilities and support sustainable urban development in the coming fiscal year.</description>
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414111/jamalpur-municipality-unveils-tk-51.13-crore</guid>
-      <pubDate>2026-07-01T22:24:44+06:00</pubDate>
-    </item>
-    <item>
-      <title>Bangladesh must count persons with disabilities</title>
-      <link>https://www.dhakatribune.com/opinion/op-ed/414042/bangladesh-must-count-persons-with-disabilities</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/414042/bangladesh-must-count-persons-with-disabilities</guid>
-      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/29/disability-Shutterstock-ED1-afccdb801d1bdcf5a61818516e6918e5.jpg" />
-      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/29/disability-Shutterstock-ED1-afccdb801d1bdcf5a61818516e6918e5.jpg" medium="image" />
     </item>
     <item>
       <title>TikTok unveils new creative solutions at Cannes Lions</title>
@@ -580,6 +558,76 @@ Officials said the budget prioritises infrastructure expansion and improved serv
       <guid isPermaLink="true">https://www.dhakatribune.com/photo-gallery/370134/in-pictures-a-forgotten-art-form-kept-alive-at</guid>
       <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/01/06/Rajmoni-Circus-b6fc83dbb52ef6e6cd10ffcf893c2d54.jpg" />
       <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2025/01/06/Rajmoni-Circus-b6fc83dbb52ef6e6cd10ffcf893c2d54.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Ansar-VDP launches media cell Prantik Kanthoswar</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/414114/ansar-vdp-launches-media-cell-prantik-kanthoswar</link>
+      <description>Bangladesh Ansar and Village Defence Party (Ansar-VDP) has officially inaugurated its new media cell titled ‘Prantik Kanthoswar’, aimed at highlighting the struggles and achievements of marginalized communities while showcasing the organization’s contributions at the national level.
+
+The inauguration ceremony was held on Wednesday at the Ansar-VDP headquarters. The initiative was formally launched by the Honorable Minister for Information and Broadcasting, Zahir Uddin Swapan, who attended the event as chief guest, said a press release.
+
+In his address, the minister said Prantik Kanthoswar would serve as an important bridge for implementing the government’s development agenda and effectively communicating the activities of Ansar-VDP to the public.
+
+State Minister for Railways and Road Transport and Highways Habibur Rashid, MP, attended the program as special guest.
+
+The program was chaired by Director General Major General Abdul Motaleb Sajjad Mahmud, who emphasized that Ansar-VDP’s large workforce can be better utilized in structured socio-economic development activities. He also said the platform would help bring forward grassroots stories, including local successes often absent from mainstream media.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414114/ansar-vdp-launches-media-cell-prantik-kanthoswar</guid>
+      <pubDate>2026-07-01T22:41:53+06:00</pubDate>
+    </item>
+    <item>
+      <title>President urges journalists to uphold highest standards of professionalism, ethics</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/414113/president-urges-journalists-to-uphold-highest</link>
+      <description>President Mohammad Shahabuddin on Wednesday called upon members of the Law Reporters Forum (LRF) to uphold the highest standards of professionalism, ethics, integrity and responsibility in journalism.
+
+“Lawful journalism serves as an important bridge between the judiciary and the people as well,” he told the LRF leaders as its 12-member delegation led by its President Hasan Zaved and General Secretary Moniruzzaman Mission paid a courtesy call on him at Bangabhaban.
+
+The Head of the State said law reporters play a vital role in disseminating objective, accurate and responsible reports on court proceedings and significant verdicts.
+
+He said the journalists, those who work with legal profession, are also making a significant contribution to raising public awareness about legal issues through simple and understandable reporting.
+
+Referring to the supremacy of the Constitution, the rule of law and the establishment of justice as the fundamental pillars of a democratic state, Mohammad Shahabuddin said, “The government is working with the highest priority to ensure the rule of law, justice, human rights and good governance in line with the Constitution.”
+
+The President said various initiatives are being implemented to modernise the judiciary and expand the use of information technology (IT) in the justice system.
+
+Access to justice would become easier and faster if the judiciary, lawyers, journalists and all other stakeholders work together with sincerity and commitment, he mentioned.
+
+The President urged journalists to practise responsible journalism while maintaining the dignity of the courts and respecting the sensitivity of sub judice matters.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414113/president-urges-journalists-to-uphold-highest</guid>
+      <pubDate>2026-07-01T22:36:38+06:00</pubDate>
+    </item>
+    <item>
+      <title>JICA President Tanaka Akihito meets FM, state minister</title>
+      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/414112/jica-president-tanaka-akihito-meets-fm-state</link>
+      <description>Japan International Cooperation Agency (JICA) President Dr Tanaka Akihito, along with Japan’s Parliamentary Vice-Minister for Foreign Affairs Shimada Tomoaki, met Foreign Minister Dr Khalilur Rahman and State Minister Shama Obaed Islam on Wednesday.
+
+Japan International Cooperation Agency President Dr Tanaka Akihito and Parliamentary Vice-Minister Shimada Tomoaki meet State Minister Shama Obaed Islam in Dhaka on Wednesday, July 1, 2026. Photo: Courtesy
+
+The separate meetings that took place at the Cabinet Division of the Secretariat reaffirmed the shared commitment of Japan and Bangladesh to further strengthen their long-standing partnership through JICA’s development cooperation, supporting sustainable economic growth and deeper bilateral ties.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/414112/jica-president-tanaka-akihito-meets-fm-state</guid>
+      <pubDate>2026-07-01T22:35:05+06:00</pubDate>
+    </item>
+    <item>
+      <title>Jamalpur Municipality unveils Tk 51.13 crore budget for FY 2026–27</title>
+      <link>https://www.dhakatribune.com/bangladesh/nation/414111/jamalpur-municipality-unveils-tk-51.13-crore</link>
+      <description>A budget of Tk 51,12,87,756  has been announced for Jamalpur Municipality for the 2026–27 fiscal year, while total expenditure is estimated at Tk 49,11,36,552 . No new taxes have been proposed.
+
+The budget was unveiled at a press conference at the municipality office on Monday. Administrator Mousumi Khanam said the proposal was prepared based on existing revenue and expenditure trends and aims to accelerate local development activities.
+
+Projected revenue income for the fiscal year stands at Tk 21,12,35,545 , with expenditure estimated at Tk 19,20,27,000 . The water supply branch is expected to generate Tk 51,92,609  in income, against an expenditure of Tk 50,74,500 .
+
+Under development and government-assisted projects, income is projected at Tk 29,48,59,599 , with expenditure of Tk 29,40,35,052 . This includes ADP-funded initiatives, urban infrastructure development projects, healthcare assistance, and COVID-19 response and recovery programmes.
+
+Officials said the budget prioritises infrastructure expansion and improved service delivery across key sectors, expressing hope that effective implementation will strengthen civic facilities and support sustainable urban development in the coming fiscal year.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/nation/414111/jamalpur-municipality-unveils-tk-51.13-crore</guid>
+      <pubDate>2026-07-01T22:24:44+06:00</pubDate>
+    </item>
+    <item>
+      <title>Bangladesh must count persons with disabilities</title>
+      <link>https://www.dhakatribune.com/opinion/op-ed/414042/bangladesh-must-count-persons-with-disabilities</link>
+      <description />
+      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/414042/bangladesh-must-count-persons-with-disabilities</guid>
+      <media:thumbnail url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/29/disability-Shutterstock-ED1-afccdb801d1bdcf5a61818516e6918e5.jpg" />
+      <media:content url="https://ecdn.dhakatribune.net/contents/uploads/media/2024/05/29/disability-Shutterstock-ED1-afccdb801d1bdcf5a61818516e6918e5.jpg" medium="image" />
     </item>
     <item>
       <title>IGP: Govt approves 4 police stations, 6 investigation centers in Purbachal</title>
@@ -6590,31 +6638,6 @@ The advisory was lifted after a week.</description>
       <link>https://www.dhakatribune.com/business/banks/413512/world-bank-to-provide-450m-loan-to-bangladesh-for</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/business/banks/413512/world-bank-to-provide-450m-loan-to-bangladesh-for</guid>
-    </item>
-    <item>
-      <title>BB warns banks from discouraging customers to sell savings certificates</title>
-      <link>https://www.dhakatribune.com/business/banks/413515/bb-warns-banks-from-discouraging-customers-to-sell</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/business/banks/413515/bb-warns-banks-from-discouraging-customers-to-sell</guid>
-    </item>
-    <item>
-      <title>HC achieves record disposal of 20,000 old cases in 4 days</title>
-      <link>https://www.dhakatribune.com/bangladesh/court/413509/hc-achieves-record-disposal-of-20-000-old-cases-in</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/court/413509/hc-achieves-record-disposal-of-20-000-old-cases-in</guid>
-    </item>
-    <item>
-      <title>Dhaka rejects Delhi’s explanation over Adviser Zahed’s airport incident</title>
-      <link>https://www.dhakatribune.com/bangladesh/foreign-affairs/413514/dhaka-rejects-delhi%E2%80%99s-explanation-over-adviser</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/foreign-affairs/413514/dhaka-rejects-delhi%E2%80%99s-explanation-over-adviser</guid>
-    </item>
-    <item>
-      <title>Mitford intern doctors on indefinite strike over 'assault' by Chhatra Dal leader</title>
-      <link>https://www.dhakatribune.com/bangladesh/dhaka/413544/alleged-assault-on-physicians-at-mitford-hospital</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/bangladesh/dhaka/413544/alleged-assault-on-physicians-at-mitford-hospital</guid>
-      <pubDate>2026-06-25T00:29:52+06:00</pubDate>
     </item>
   </channel>
 </rss>
