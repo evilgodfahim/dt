@@ -4,7 +4,125 @@
     <title>Dhaka Tribune - Opinion</title>
     <link>https://www.dhakatribune.com/opinion</link>
     <description>Op-Eds, Editorials and Longform from Dhaka Tribune</description>
-    <lastBuildDate>Wed, 25 Nov 2026 23:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:55:56 +0000</lastBuildDate>
+    <item>
+      <title>What are AI chips, and what’s so special about Nvidia’s?</title>
+      <link>https://www.dhakatribune.com/opinion/op-ed/425782/what-are-ai-chips-and-what%E2%80%99s-so-special-about</link>
+      <description>The commotion around Nvidia CEO Jensen Huang’s ouster and reinstatement, the central role of Nvidia in the US-China AI competition, and the US economy’s reliance on the AI boom might leave you asking: What’s so special about Nvidia’s chips?
+
+The answer comes down to graphics processing units, or GPUs, and how far they’ve come from their humble beginnings as sidekicks to computers’ main chips: Central processing units, or CPUs.
+
+GPUs now power the most visible advances in generative artificial intelligence, but they began as modestly priced add-on cards for video games and video rendering.
+
+As a researcher of high-performance computing and computer processors, I see three factors that explain how GPUs have become so important to the modern economy and how Nvidia became their dominant supplier:
+
+GPUs vs CPUs
+
+The CPU is built to handle a wide variety of complicated tasks quickly, a few at a time. In contrast, a GPU typically operates on simpler mathematical tasks, such as multiplying two sets of numbers, but it can perform many of these simpler operations in parallel.
+
+A GPU’s design turns out to be ideal for AI. Training a neural network, the kind of AI model behind today’s chatbots and image generators, comes down mostly to multiplying enormous grids of numbers, over and over. Today’s top AI GPUs can perform more than a quadrillion, or thousand trillion, of these operations every second.
+
+From pretty pictures to AI data centres
+
+Early GPUs could only draw graphics. Programmers controlled them with small programs called shaders, which calculate things such as the color of each pixel and which can be repeated across millions of pixels in parallel. Nvidia dominated the market for graphics chips in the late 1990s and 2000s.
+
+In the early 2000s, Stanford University researchers built software tools that let programmers use this hardware for other kinds of calculations. That work provided the basis for Nvidia’s Compute Unified Device Architecture, or CUDA, which was released in 2007. CUDA allowed scientists and engineers to run scientific and more general purpose programs using the GPU’s parallel execution model.
+
+The second major shift occurred when AlexNet, a neural network model developed and trained on GPUs, won the 2012 ImageNet challenge, an annual competition to see which software could most accurately identify objects in a set of photographs.
+
+AlexNet was trained on two Nvidia GPUs, and it made far fewer mistakes than any competitor. The result showed that GPUs made it practical to train neural networks big enough to beat the older techniques, and AI researchers quickly adopted them for their work.
+
+Because Nvidia had spent years building CUDA and the software around it, it was positioned to benefit more than anyone. Competitors, including AMD, which also makes GPUs, and Google, which designs its own AI chips, called tensor processing units, have since built strong alternatives.
+
+Nvidia and other chipmakers then began redesigning GPUs for AI with specific features. These include adding hardware specialized for the matrix multiplication math that neural networks rely on, using reduced precision numbers to improve the speed of neural network training and adding larger amounts of fast memory to keep these chips supplied with data for AI workloads.
+
+AI takes off
+
+In 2017, Google researchers introduced the transformer, a neural network design originally built to translate between languages. Transformers turned out to perform remarkably well in terms of accuracy as the model and dataset size grew, and this design became the foundation of today’s chatbots and many other generative AI systems.
+
+The growth of these new transformer models has also led to the current boom of generative AI companies, including US-based companies OpenAI, Anthropic, Meta, Google, and xAI, as well as Chinese companies such as DeepSeek, Alibaba, and Baidu. Each of these companies is actively focused on building large data centres composed of high-end GPUs to train next-generation foundation models.
+
+These foundation models, exemplified by Google’s Gemini, Anthropic’s Claude Fable, and OpenAI’s GPT Astra, are very large neural networks that can reason, write software code, and analyze information in response to plain language instructions. The companies working on foundation model training are betting that the best models will automate much of the world’s information work and generate enormous economic returns.
+
+Nvidia’s GPUs dominate the AI market, but rival companies developing other chips are trying to knock Nvidia off its throne.
+
+AI ‘arms race’
+
+Nvidia trains some AI models of its own, but most of its profit comes from selling the chips and software that other companies use to build theirs. This AI boom has led to record profits for Nvidia, but it has also drawn attention from the US government, which has debated how far to restrict sales of advanced chips to China. The Trump administration tightened its export controls for advanced GPUs in the immediate aftermath of the scandal involving Huang’s relationship with an alleged Chinese spy.
+
+Demand for AI chips looks likely to keep growing as the leading AI companies compete to build more capable models, but the boom faces real limits. AI data centres require enormous amounts of electricity, raising questions about the power costs and environmental impacts to local communities.
+
+The most advanced AI chips, including Nvidia’s, are fabricated largely by one company, Taiwanese chip giant Taiwan Semiconductor Manufacturing Co, known as TSMC. Demand for AI hardware has also strained supplies of memory chips, creating shortages that reach gaming graphics cards and smartphones.
+
+Nvidia also faces direct competition from AMD, cloud companies designing their own chips, and startups, all promising to run AI more cheaply and with less power. Whether Nvidia’s software and hardware advantages can hold off these challengers is one of the biggest open questions in the industry.
+
+Jeffrey Young is Principal Research Scientist, Partnership for an Advanced Computing Environment, Georgia Institute of Technology. This article is republished from The Conversation under a Creative Commons license.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/425782/what-are-ai-chips-and-what%E2%80%99s-so-special-about</guid>
+      <pubDate>2026-11-26T09:25:52+06:00</pubDate>
+    </item>
+    <item>
+      <title>The institutional failure behind graduate unemployment</title>
+      <link>https://www.dhakatribune.com/opinion/op-ed/425780/the-institutional-failure-behind-graduate</link>
+      <description>There is a weird waiting room in Bangladesh where nobody has an appointment, nobody knows when a name will be called, and nobody is sure the door will open.
+
+Its occupants are young, educated. They have studied and competed, only to discover that the labour market has a condition they cannot satisfy: Experience. They need a job to gain experience, but need experience to get a job. The waiting room grows as the economy claims to progress.
+
+This is not merely the disappointment of graduates. It is the story of a country better at producing qualifications than organizing opportunities.
+
+A recent study by the Power and Participation Research Center (PPRC) puts youth unemployment among people aged 15 to 29 at 8.07%. The rate rises to 13.5% for bachelor's degree holders and 20.4% for female graduates. Of the country's 2.62 million unemployed people, 885,000 are university graduates.
+
+Even those who find work often enter an insecure world: 92.7% of working young people are employed in the informal sector. A degree no longer reliably signals a route into economic independence.
+
+The familiar explanation is that graduates lack the skills employers need. Curricula can be disconnected from industry, practical learning uneven, and communication and technological abilities underdeveloped. But the skills argument has become a convenient hiding place for systemic failure.
+
+It asks why young people are not ready for work without asking why workplaces will not help them become ready. Employers advertise entry-level jobs requiring experience; universities celebrate graduation without meaningful professional exposure; training centres issue certificates whose value employers rarely test. Everyone produces an output, but nobody owns the transition.
+
+A functioning labour market needs more than graduates on one side and vacancies on the other. It needs a bridge: Employers willing to train, institutions aware of local demand, banks prepared to finance viable ideas, and public agencies that make enterprise possible.
+
+This is the missing middle in Bangladesh's employment story. Policies announce targets and individuals show initiative, but the organizations connecting ambition with opportunity remain fragmented or inaccessible. People are told to become employable, while the institutions responsible for employment are rarely held accountable.
+
+Consider the first-job paradox. A graduate cannot arrive with the experience of someone who has spent years in an industry. Experience must be built, and that requires employers to accept some risk and invest in training.
+
+Paid internships, apprenticeships, supervised placements, and industry-linked university projects should be essential parts of education, with real responsibilities. Employers must also distinguish specialist vacancies from genuine entry-level roles.
+
+A first job should be a starting point, not a test applicants are structurally unable to pass. Universities should assess applied knowledge, not just examination performance.
+
+The waiting room is even more crowded for women. A female graduate may have the same qualifications as a male colleague but face a narrower geography of opportunity.
+
+Unsafe transport, inadequate childcare, harassment, discriminatory recruitment, and unpaid care expectations can turn an apparently open vacancy into an inaccessible one. The 20.4% unemployment rate among female graduates cannot be reduced to individual skills or confidence.
+
+Entrepreneurship schemes are equally inadequate if women seeking loans are asked for property documents they do not own or a husband's signature. Banks must assess business viability rather than reproduce inequality through lending procedures.
+
+For young people who want to create jobs rather than wait for them, the route is hardly easier. Starting a small enterprise can mean navigating registration, licences, taxation, bank requirements, and repeated visits to public offices. When 80% of young people report delays and bribery in accessing government services, administrative friction becomes a tax on initiative, paid in time and money.
+
+A young entrepreneur may have a sound idea but no land for collateral, no credit history or influential connection. The state praises innovation while its procedures make the first step prohibitively expensive. Simplified registration, transparent timelines, accessible credit, and accountable one-stop services would matter more than another startup slogan.
+
+The contradiction is visible beyond major cities. Regions possess assets that could support local jobs if the missing links were built. Rajshahi produces mangoes, but inadequate storage and processing allow value to disappear after harvest. Noakhali grows soybeans, while limited processing restricts the benefits retained locally. Underused space at hi-tech parks raises a basic question: Why build infrastructure without ensuring that businesses, workers, and investment are ready to occupy it?
+
+This calls for a different way of measuring development. A district should not be judged only by roads, buildings, training centres or industrial facilities announced. It should also be judged by local value addition, sustainable jobs, post-training employment, and women's participation.
+
+Local governments, universities, employers, banks and training providers should map their area's economic possibilities. Their performance should be measured through job placement, retention, wage progression, business survival and access to finance, not seminars held or certificates issued. Public incentives should reward firms that train and retain first-time workers, rather than those that merely promise to do so.
+
+The informal economy deserves equal attention. It provides livelihoods for millions and cannot be formalized overnight. But the fact that 92.7% of working youth are employed informally should make policy-makers reconsider what they celebrate as job creation.
+
+Someone without predictable income, written terms, paid leave, insurance or protection against arbitrary dismissal may be employed statistically and insecure in practice. Freelancers and platform workers need fair payment, banking access, and social protection. Formalization should not bury small businesses in paperwork. It should make decent work easier to achieve and sustain.
+
+Nor should Bangladesh assume that economic growth will eventually solve the problem. Growth can coexist with graduate unemployment when investment concentrates in sectors generating few jobs. The demographic advantage is not a permanent asset waiting to be collected. It is a window that can narrow.
+
+A young population becomes an economic dividend only when education, investment, technology, enterprise, and labour institutions work together. Otherwise, a generation of potential contributors risks becoming a generation of postponed lives.
+
+The consequences extend beyond household income. Long unemployment delays independence and family responsibilities, drains confidence and weakens the belief that merit offers a route forward. Families that sacrificed to educate their children may discover that a degree brings neither mobility nor security. Repeatedly closed doors can turn frustration into distrust of institutions and public promises. The loss is not confined to an unemployed individual. It includes resources invested in education, productive capacity left unused and the credibility of a development model that measures progress without asking who gets to participate.
+
+Bangladesh does not need to tell its young people to wait patiently, collect another certificate or become entrepreneurs alone. It needs to make the waiting room smaller.
+
+Employers must open genuine entry routes, universities connect learning with practice, banks recognise viable enterprise beyond traditional collateral, and public agencies treat transparency and time as obligations. That should be the measure of progress, not promises.
+
+Young people are not asking the country to guarantee every ambition. They are asking for a fair chance to begin. A nation that teaches its children to prepare for the future must build a future in which their preparation has somewhere to go.
+
+HM Nazmul Alam is an academic, journalist, and political analyst based in Dhaka, Bangladesh. Currently he is teaching at IUBAT.</description>
+      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/425780/the-institutional-failure-behind-graduate</guid>
+      <pubDate>2026-11-26T09:11:32+06:00</pubDate>
+    </item>
     <item>
       <title>The epidemic we continue to tolerate</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/425626/the-epidemic-we-continue-to-tolerate</link>
@@ -15,23 +133,21 @@
     <item>
       <title>Understanding the rise of divorce</title>
       <link>https://www.dhakatribune.com/opinion/op-ed/425625/understanding-the-rise-of-divorce</link>
-      <description>It is tempting to read the rising numbers as proof that the family is collapsing. A better reading is that more Bangladeshis, mostly women, are...</description>
+      <description>It is tempting to read the rising numbers as proof that the family is collapsing. A better...</description>
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/425625/understanding-the-rise-of-divorce</guid>
       <pubDate>2026-11-25T10:26:00+06:00</pubDate>
     </item>
     <item>
       <title>Our tourism sector has a friendliness problem</title>
       <link>https://www.dhakatribune.com/opinion/editorial/425691/our-tourism-sector-has-a-friendliness-problem</link>
-      <description>On paper, the launch of a three-month tourism carnival in Cox's Bazar is a welcome...</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/425691/our-tourism-sector-has-a-friendliness-problem</guid>
-      <pubDate>2026-11-25T02:23:55+06:00</pubDate>
     </item>
     <item>
       <title>The need to confront violence against women</title>
       <link>https://www.dhakatribune.com/opinion/editorial/425690/the-need-to-confront-violence-against-women</link>
-      <description>Bangladesh has spent decades celebrating gains in girls' education, women's employment, and...</description>
+      <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/425690/the-need-to-confront-violence-against-women</guid>
-      <pubDate>2026-11-25T02:22:11+06:00</pubDate>
     </item>
     <item>
       <title>Towards stronger ties with Australia</title>
@@ -3147,18 +3263,6 @@ However, if we put the small and the large enterprises in the common nexus of cr
       <link>https://www.dhakatribune.com/opinion/op-ed/416595/some-food-for-thought</link>
       <description />
       <guid isPermaLink="true">https://www.dhakatribune.com/opinion/op-ed/416595/some-food-for-thought</guid>
-    </item>
-    <item>
-      <title>Addressing medical issues in prisons</title>
-      <link>https://www.dhakatribune.com/opinion/editorial/416533/addressing-medical-issues-in-prisons</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/416533/addressing-medical-issues-in-prisons</guid>
-    </item>
-    <item>
-      <title>Creating a reliable railway system</title>
-      <link>https://www.dhakatribune.com/opinion/editorial/416532/creating-a-reliable-railway-system</link>
-      <description />
-      <guid isPermaLink="true">https://www.dhakatribune.com/opinion/editorial/416532/creating-a-reliable-railway-system</guid>
     </item>
   </channel>
 </rss>
